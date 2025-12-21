@@ -16,12 +16,16 @@
   padding: 0;
 }
 
+html {
+  font-size: 16px;
+}
+
 body {
     font-family: "EB Garamond", serif;  line-height: 1.3;
   color: var(--color-text);
   background: #fff;
   border-color: rgba(255, 255, 255, 0.85);
-    border-width: 3.6rem;
+  border-width: clamp(1rem, 4vw, 3.6rem);
     border-style: solid;
 }
 
@@ -99,10 +103,10 @@ figcaption {
 .container {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding-top: calc(var(--header-height) + 4rem);
-  padding-bottom: calc(var(--footer-height) + 4rem);
-  padding-left: 6rem;
-  padding-right: 6rem;
+  padding-top: calc(var(--header-height) + 3rem);
+  padding-bottom: calc(var(--footer-height) + 3rem);
+  padding-left: clamp(1.25rem, 6vw, 10rem);
+  padding-right: clamp(1.25rem, 6vw, 10rem);
 }
 
 /* ---------- Bio ---------- */
@@ -182,8 +186,11 @@ figcaption {
 
 @media (max-width: 768px) {
 
+    html {
+    font-size: 18px;
+  }
   body {
-    border-width: 1.2rem;
+    border-width: clamp(1rem, 4vw, 3.6rem);
   }
 
   .site-header {
