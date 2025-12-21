@@ -99,10 +99,10 @@ figcaption {
 .container {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding-top: calc(var(--header-height) + 3rem);
-  padding-bottom: calc(var(--footer-height) + 3rem);
-  padding-left: 3rem;
-  padding-right: 3rem;
+  padding-top: calc(var(--header-height) + 4rem);
+  padding-bottom: calc(var(--footer-height) + 4rem);
+  padding-left: 6rem;
+  padding-right: 6rem;
 }
 
 /* ---------- Bio ---------- */
@@ -223,4 +223,12 @@ figcaption {
   }
 
 }
+
+@media (min-width: 1200px) {
+  .container {
+    padding-left: 10rem;
+    padding-right: 10rem;
+  }
+}
+
 
