@@ -179,4 +179,33 @@ figcaption {
   .container {
     padding: calc(var(--header-height) + 1.5rem) 1rem calc(var(--footer-height) + 1.5rem) 1rem;
   }
+
+  .site-header .site-name {
+    font-size: 2rem;
+  }
+  .site-footer {
+    font-size: 1.5rem;
+  }
+
+  .bio {
+    font-size: 1.5rem;
+  }
+
+  .category h2 {
+    font-size: 1.5rem;
+  }
+
+  .category li a {
+    font-size: 1.5rem;
+  }
+
+  .single-article h1 {
+    font-size: 1.5rem;
+  }
+
+  .single-article p {
+    font-size: 1.4rem;
+  }
+
+
 }
