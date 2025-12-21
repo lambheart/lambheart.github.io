@@ -1,0 +1,6 @@
+baseURL = "https://lambheart.github.io/"
+title = "Celeste Li"
+languageCode = "en-us"
+
+[params]
+    author = "Celeste Li"
