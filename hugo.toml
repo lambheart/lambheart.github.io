@@ -4,3 +4,8 @@ languageCode = "en-us"
 
 [params]
     author = "Celeste Li"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true

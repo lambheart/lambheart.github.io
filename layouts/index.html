@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <section class="bio">
+    {{ .Content }}
+  </section>
+
+  {{/* Define categories */}}
+  {{ $categories := slice "writing" "notes" "archive" }}
+
+  {{ range $categories }}
+    {{ $section := site.GetPage (printf "/%s/" .) }}
+    {{ if $section }}
+      <section class="category">
+        <h2>{{ $section.Title | upper }}</h2>
+        <ul>
+          {{ range $section.Pages.ByWeight }}
+            <li>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
+  {{ end }}
+{{ end }}
