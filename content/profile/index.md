@@ -20,3 +20,10 @@ Her broader interests include decision-making under uncertainty, elite politics,
 - Probability and Info Theory in Machine Learning
 - Matrix Methods in Machine Learning
 
+**LANGUAGES**
+- English
+- Mandarin Chinese 
+- French
+- Ancient Greek
+- Biblical Hebrew
+
