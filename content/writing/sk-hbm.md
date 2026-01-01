@@ -21,7 +21,7 @@ Similarly, White House Office of Science and Technology Policy Director Michael 
 
 Toward this end, a central concern of the U.S. technology and national security community has been limiting the ability of the People’s Republic of China (PRC) to engage in comparable frontier AI research and development.
 
-High Bandwidth Memory as a Bottleneck
+### High Bandwidth Memory as a Bottleneck
 Computing power has emerged as a bottleneck in frontier AI development. It is critical for training frontier models and subsequently deploying them at scale. Broad deployment could accelerate scientific progress across disciplines by contributing breadth, speed, and enhanced reasoning capabilities to research agendas. Thus, American strategy has increasingly emphasized constraining China’s access to advanced computing resources. *America’s AI Action Plan* states:
 
 “Advanced AI compute is essential to the AI era, enabling both economic dynamism and novel military capabilities. Denying our foreign adversaries access to this resource, then, is a matter of both geostrategic competition and national security.”
