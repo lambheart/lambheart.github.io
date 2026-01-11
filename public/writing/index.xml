@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing on Celeste Li</title>
-    <link>http://localhost:1313/writing/</link>
+    <link>https://lambheart.github.io/writing/</link>
     <description>Recent content in Writing on Celeste Li</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lambheart.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>South Korea and the HBM Bottleneck</title>
-      <link>http://localhost:1313/writing/sk-hbm/</link>
+      <link>https://lambheart.github.io/writing/sk-hbm/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writing/sk-hbm/</guid>
+      <guid>https://lambheart.github.io/writing/sk-hbm/</guid>
       <description>&lt;p&gt;&lt;em&gt;This essay is crossposted from &lt;a href=&#34;https://lambheart.substack.com/p/south-korea-and-the-hbm-bottleneck&#34;&gt;Substack&lt;/a&gt;. It was produced in the first iteration of the &lt;a href=&#34;https://waisi.org/&#34;&gt;WAISI&lt;/a&gt; Policy Scholars program I designed as Policy Lead for Fall 2025. I was the primary author of the analysis, working in collaboration with the group.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Contributors: Celeste Li, Jeremy Kintana, Kaden Johnson, Kaustubh Kislay, Learoy Daryl Joseph, Maria de Martino, Shawn Im, Will Anderson&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h4&gt;&#xA;&lt;p&gt;Frontier AI development has become a central axis of U.S.–China strategic competition. The United States seeks to maintain technological dominance by constraining China’s access to advanced compute, with High Bandwidth Memory (HBM) serving as the critical bottleneck. As South Korean semiconductor firms dominate the global supply of HBM, they are crucial intermediaries who are vulnerable to a volatile regulatory environment. Export controls that are inconsistent or insufficiently coordinated risk undermining allied cooperation—particularly for South Korea, which pursues a hedging strategy. Durable coordination requires policies that are predictable and sensitive to structural constraints rather than relying on pressure alone. Toward this end, the U.S. should integrate South Korea as a co-architect of supply-chain resilience and leverage incentives, such as targeted investment and joint infrastructure projects. Addressing structural pressures on allied firms is as critical as identifying technical bottlenecks, so as to ensure coordination is sustained over the long term.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Circulation and Attention in Contemporary Image Culture</title>
-      <link>http://localhost:1313/writing/circulation/</link>
+      <link>https://lambheart.github.io/writing/circulation/</link>
       <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writing/circulation/</guid>
+      <guid>https://lambheart.github.io/writing/circulation/</guid>
       <description>&lt;p&gt;&lt;em&gt;Written for an art history course on contemporary art.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the contemporary world, images are encountered most frequently on the internet, on social media, on television, and in advertising. These images are often designed for rapid circulation and instant legibility—circulating, shaping behavior, and commanding attention—no longer primarily representational or contemplative. Social media facilitates the automation of attention and valuation. Attention is guided by systems instead of reflective choice, that is, algorithms determine what is seen; and images are evaluated instantly and quantitatively in the form of engagement metrics. When attention becomes measurable and worth is calculated (not debated) through algorithmic systems, social media transforms the act of seeing into a data-driven process. Within this image economy, contemporary art takes on a marginal status, and it appears as though the onus is on contemporary art to distinguish itself as a protest against obsolescence.&lt;/p&gt;</description>
     </item>
   </channel>
