@@ -50,7 +50,7 @@ figure img {
 
 figcaption {
   font-family: "EB Garamond", serif;
-  font-size: 0.85rem;
+  font-size: 1rem;
   margin-top: 0.5rem;
 }
 
@@ -88,7 +88,6 @@ figcaption {
   align-items: center;
   padding: 2rem var(--spacing) 5rem;
   background: #fff;
-  font-size: 1rem;
   font-family: "Pinyon Script", serif;
   font-size: 1.1rem;
   font-weight: 400;
@@ -171,7 +170,7 @@ figcaption {
 .single-article p {
   margin-bottom: 1rem;
   line-height: 1.5;
-  font-size:.85rem;
+  font-size: 1rem;
 }
 
 .single-article ul {
