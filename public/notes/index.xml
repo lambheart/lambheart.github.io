@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Celeste Li</title>
-    <link>https://lambheart.github.io/notes/</link>
+    <link>http://localhost:1313/notes/</link>
     <description>Recent content in Notes on Celeste Li</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lambheart.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Limitations of Export Controls, a Thought Exercise</title>
-      <link>https://lambheart.github.io/notes/export-controls/</link>
+      <title>Limitations of Export Controls, A Thought Exercise</title>
+      <link>http://localhost:1313/notes/export-controls/</link>
       <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://lambheart.github.io/notes/export-controls/</guid>
+      <guid>http://localhost:1313/notes/export-controls/</guid>
       <description>&lt;p&gt;Over the fall semester of 2025, I researched the importance of South Korean technology firms as an underappreciated node of the semiconductor supply chain. The findings and recommendations for export controls were posted in a Substack article titled &lt;a href=&#34;https://lambheart.substack.com/p/south-korea-and-the-hbm-bottleneck&#34;&gt;South Korea and the HBM Bottleneck&lt;/a&gt;, arguing for export controls that were more predictable and sensitive to structural constraints that South Korean firms faced.&lt;/p&gt;&#xA;&lt;p&gt;The preceding analysis treats export controls and supply-chain bottlenecks as meaningful constraints in U.S.–China competition on frontier AI development. While this framing reflects dominant policy discourse, I remain uncertain about several of its underlying assumptions.&lt;/p&gt;</description>
     </item>
   </channel>
