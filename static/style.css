@@ -5,7 +5,7 @@
   --color-link-hover: rgba(44, 27, 27, 0.3);
   --header-height: 112px;
   --footer-height: 50px;
-  --max-width: 800px;
+  --max-width: 1000px;
   --spacing: 4rem;
 }
 
@@ -159,12 +159,21 @@ figcaption {
   text-align: left;
 }
 
+.single-article .date {
+  font-size: .9rem;
+  line-height: 2;
+}
+
 .single-article h1 {
   font-family: "EB Garamond", serif;
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: 400;
   color: var(--color-text-light);
   margin-bottom: 1rem;
+}
+
+.single-article h3 {
+  line-height:2;
 }
 
 .single-article p {
@@ -237,15 +246,8 @@ figcaption {
 
 @media (min-width: 1024px) {
   .container {
-    padding-left: 6rem;
-    padding-right: 6rem;
-  }
-}
-
-@media (min-width: 1400px) {
-  .container {
-    padding-left: 10rem;
-    padding-right: 10rem;
+    padding-left: 9rem;
+    padding-right: 9rem;
   }
 }
 
