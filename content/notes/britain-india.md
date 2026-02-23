@@ -3,6 +3,8 @@ title: "We should look at British Colonial Rule over India and China to Understa
 date: 2026-02-23
 weight: 1
 ---
+2026 02 23
+
 *Evolving historical comparison argument I have surrounding the emerging discussion on developing countries and middle powers*
 
 The closest historical allusion to a general and total technological advantage is arguably found in the British Industrial Revolution. The mechanization of textile production, the steam engine, and the expansion of rail and telegraph networks collectively restructured the material basis of global production. Britain not only outcompeted other states but also reorganized the terms on which economic activity was conducted. It is for this reason that the Industrial Revolution has become a common reference point in discussions of AI’s transformative potential: both represent a rupture of the productive order itself.

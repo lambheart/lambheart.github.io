@@ -3,6 +3,7 @@ title: "Circulation and Attention in Contemporary Image Culture"
 date: 2025-12-17
 weight: 2
 ---
+2025 12 17
 
 *Written for an art history course on contemporary art.*
 

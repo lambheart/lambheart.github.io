@@ -3,6 +3,8 @@ title: "South Korea and the HBM Bottleneck"
 date: 2026-01-01
 weight: 1
 ---
+2026 01 01
+
 *This essay is crossposted from [Substack](https://lambheart.substack.com/p/south-korea-and-the-hbm-bottleneck). It was produced in the first iteration of the [WAISI](https://waisi.org/) Policy Scholars program I designed as Policy Lead for Fall 2025. I was the primary author of the analysis, working in collaboration with the group.*
 
 *Contributors: Celeste Li, Jeremy Kintana, Kaden Johnson, Kaustubh Kislay, Learoy Daryl Joseph, Maria de Martino, Shawn Im, Will Anderson*

@@ -3,6 +3,8 @@ title: "Limitations of Export Controls, A Thought Exercise"
 date: 2026-01-11
 weight: 2
 ---
+2026 01 11
+
 Over the fall semester of 2025, I researched the importance of South Korean technology firms as an underappreciated node of the semiconductor supply chain. The findings and recommendations for export controls were posted in a Substack article titled [South Korea and the HBM Bottleneck](https://lambheart.substack.com/p/south-korea-and-the-hbm-bottleneck), arguing for export controls that were more predictable and sensitive to structural constraints that South Korean firms faced.
 
 The preceding analysis treats export controls and supply-chain bottlenecks as meaningful constraints in U.S.–China competition on frontier AI development. While this framing reflects dominant policy discourse, I remain uncertain about several of its underlying assumptions.
