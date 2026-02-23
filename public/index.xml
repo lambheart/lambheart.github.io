@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Celeste Li</title>
-    <link>https://lambheart.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Celeste Li</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lambheart.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Limitations of Export Controls, a Thought Exercise</title>
-      <link>https://lambheart.github.io/notes/export-controls/</link>
+      <title>Limitations of Export Controls, A Thought Exercise</title>
+      <link>http://localhost:1313/notes/export-controls/</link>
       <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://lambheart.github.io/notes/export-controls/</guid>
+      <guid>http://localhost:1313/notes/export-controls/</guid>
       <description>&lt;p&gt;Over the fall semester of 2025, I researched the importance of South Korean technology firms as an underappreciated node of the semiconductor supply chain. The findings and recommendations for export controls were posted in a Substack article titled &lt;a href=&#34;https://lambheart.substack.com/p/south-korea-and-the-hbm-bottleneck&#34;&gt;South Korea and the HBM Bottleneck&lt;/a&gt;, arguing for export controls that were more predictable and sensitive to structural constraints that South Korean firms faced.&lt;/p&gt;&#xA;&lt;p&gt;The preceding analysis treats export controls and supply-chain bottlenecks as meaningful constraints in U.S.–China competition on frontier AI development. While this framing reflects dominant policy discourse, I remain uncertain about several of its underlying assumptions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>South Korea and the HBM Bottleneck</title>
-      <link>https://lambheart.github.io/writing/sk-hbm/</link>
+      <link>http://localhost:1313/writing/sk-hbm/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://lambheart.github.io/writing/sk-hbm/</guid>
+      <guid>http://localhost:1313/writing/sk-hbm/</guid>
       <description>&lt;p&gt;&lt;em&gt;This essay is crossposted from &lt;a href=&#34;https://lambheart.substack.com/p/south-korea-and-the-hbm-bottleneck&#34;&gt;Substack&lt;/a&gt;. It was produced in the first iteration of the &lt;a href=&#34;https://waisi.org/&#34;&gt;WAISI&lt;/a&gt; Policy Scholars program I designed as Policy Lead for Fall 2025. I was the primary author of the analysis, working in collaboration with the group.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Contributors: Celeste Li, Jeremy Kintana, Kaden Johnson, Kaustubh Kislay, Learoy Daryl Joseph, Maria de Martino, Shawn Im, Will Anderson&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h4&gt;&#xA;&lt;p&gt;Frontier AI development has become a central axis of U.S.–China strategic competition. The United States seeks to maintain technological dominance by constraining China’s access to advanced compute, with High Bandwidth Memory (HBM) serving as the critical bottleneck. As South Korean semiconductor firms dominate the global supply of HBM, they are crucial intermediaries who are vulnerable to a volatile regulatory environment. Export controls that are inconsistent or insufficiently coordinated risk undermining allied cooperation—particularly for South Korea, which pursues a hedging strategy. Durable coordination requires policies that are predictable and sensitive to structural constraints rather than relying on pressure alone. Toward this end, the U.S. should integrate South Korea as a co-architect of supply-chain resilience and leverage incentives, such as targeted investment and joint infrastructure projects. Addressing structural pressures on allied firms is as critical as identifying technical bottlenecks, so as to ensure coordination is sustained over the long term.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Circulation and Attention in Contemporary Image Culture</title>
-      <link>https://lambheart.github.io/writing/circulation/</link>
+      <link>http://localhost:1313/writing/circulation/</link>
       <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://lambheart.github.io/writing/circulation/</guid>
+      <guid>http://localhost:1313/writing/circulation/</guid>
       <description>&lt;p&gt;&lt;em&gt;Written for an art history course on contemporary art.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the contemporary world, images are encountered most frequently on the internet, on social media, on television, and in advertising. These images are often designed for rapid circulation and instant legibility—circulating, shaping behavior, and commanding attention—no longer primarily representational or contemplative. Social media facilitates the automation of attention and valuation. Attention is guided by systems instead of reflective choice, that is, algorithms determine what is seen; and images are evaluated instantly and quantitatively in the form of engagement metrics. When attention becomes measurable and worth is calculated (not debated) through algorithmic systems, social media transforms the act of seeing into a data-driven process. Within this image economy, contemporary art takes on a marginal status, and it appears as though the onus is on contemporary art to distinguish itself as a protest against obsolescence.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://lambheart.github.io/profile/</link>
+      <link>http://localhost:1313/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lambheart.github.io/profile/</guid>
+      <guid>http://localhost:1313/profile/</guid>
       <description>&lt;p&gt;Celeste Li&lt;br&gt;&#xA;&lt;em&gt;&lt;a href=&#34;mailto:celeste_li@icloud.com&#34;&gt;celeste_li@icloud.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Celeste Li is an undergraduate at the University of Wisconsin-Madison studying sociology, computer science, and art history. She is involved in AI policy research and organizing, and currently serves as Policy Lead for the Wisconsin AI Safety Initiative.&lt;/p&gt;&#xA;&lt;p&gt;Her research focuses on how political elites use uncertainty as a governing resource in the development of national AI strategies. She is particularly interested in how uncertainty is mobilized to justify rapid resource allocation, securitization, and institutional coordination, and how these dynamics differ between the United States and China. Through analysis of public-facing elite discourse, she examines how narratives of risk, competition, and inevitability structure international diplomacy and sustain political legitimacy.&lt;/p&gt;</description>
     </item>
   </channel>

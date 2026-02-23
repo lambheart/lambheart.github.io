@@ -1,5 +1,6 @@
 {{ define "main" }}
   <article class="single-article">
+    <span class="date">{{ .Date.Format "2006 01 02" }}</span>
     <h1>{{ .Title }}</h1>
     {{ .Content }}
   </article>
