@@ -4,7 +4,7 @@
   --color-link: rgba(44, 27, 27, 0.85);
   --color-link-hover: rgba(44, 27, 27, 0.3);
   --header-height: 112px;
-  --footer-height: 50px;
+  --footer-height: 90px;
   --max-width: 1000px;
   --spacing: 4rem;
 }
@@ -84,14 +84,27 @@ figcaption {
   width: 100%;
   height: var(--footer-height);
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 2rem var(--spacing) 5rem;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.7rem;
+  padding: 1rem var(--spacing) 2rem;
   background: #fff;
   font-family: "Pinyon Script", serif;
   font-size: 1.1rem;
   font-weight: 400;
   font-style: normal;
+}
+
+.footer-friends,
+.footer-main {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.footer-friends {
+  font-family: "EB Garamond", serif;
+  font-size: .9rem;
 }
 
 /* ---------- Container ---------- */
