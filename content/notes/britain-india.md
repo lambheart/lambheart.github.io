@@ -1,7 +1,7 @@
 ---
-title: "We should look at British Colonial Rule over India and China to Understand AI Power Concentration"
+title: "Historical Comparison Mapping: British Colonial Rule over India and China and AI Power Concentration"
 date: 2026-02-23
-weight: 1
+weight: 3
 ---
 2026 02 23
 
