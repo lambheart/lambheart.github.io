@@ -4,7 +4,7 @@
   </section>
 
   {{/* Define categories */}}
-  {{ $categories := slice "writing" "notes" "archive" }}
+  {{ $categories := slice "writing" "notes" "marginalia" }}
 
   {{ range $categories }}
     {{ $section := site.GetPage (printf "/%s/" .) }}

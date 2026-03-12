@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marginalia on Celeste Li</title>
+    <link>http://localhost:1313/marginalia/</link>
+    <description>Recent content in Marginalia on Celeste Li</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/marginalia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading List</title>
+      <link>http://localhost:1313/marginalia/reading-list/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/marginalia/reading-list/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Last updated 2026 March 11&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is an actively maintained library of reading materials that I personally recommend to my friends and peers, either because they were profound and transformative, or good introductory texts to an array of subject matters. Sometimes, I list only a writer name.&lt;/p&gt;&#xA;&lt;p&gt;The page serves as a bookmark for my friends in case they ever want to recall a recommendation I&amp;rsquo;ve made.&lt;/p&gt;&#xA;&lt;p&gt;Each listing redirects to a Wikipedia page for the book, or the most &amp;ldquo;well&amp;rdquo;-encompassing resource after that.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
