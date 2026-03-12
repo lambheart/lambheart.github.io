@@ -11,29 +11,29 @@ The page serves as a bookmark for my friends in case they ever want to recall a 
 Each listing redirects to a Wikipedia page for the book, or the most all-encompassing resource after that.
 
 #### FICTION
-- *[Ulysses](https://en.wikipedia.org/wiki/Ulysses_(novel))*, James Joyce
-- *[The Gadfly](https://en.wikipedia.org/wiki/The_Gadfly)*, Ethel Voynich
-- [James Baldwin](https://en.wikipedia.org/wiki/James_Baldwin)
-- *[2666](https://en.wikipedia.org/wiki/2666)*, Roberto Bolaño
-- *[Dream of the Red Chamber](https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber)*, Cao Xueqin
-- *[Oresteia](https://en.wikipedia.org/wiki/Oresteia)*, Aeschylus
-- *[Antigone](https://en.wikipedia.org/wiki/Antigone_(Sophocles_play)https://en.wikipedia.org/wiki/Antigone_(Anouilh_play))*, Jean Anouilh
+- *<a href="https://en.wikipedia.org/wiki/Ulysses_(novel)" target="_blank" rel="noopener">Ulysses</a>*, James Joyce
+- *<a href="https://en.wikipedia.org/wiki/The_Gadfly" target="_blank" rel="noopener">The Gadfly</a>*, Ethel Voynich
+- <a href="https://en.wikipedia.org/wiki/James_Baldwin" target="_blank" rel="noopener">James Baldwin</a>
+- *<a href="https://en.wikipedia.org/wiki/2666" target="_blank" rel="noopener">2666</a>*, Roberto Bolaño
+- *<a href="https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber" target="_blank" rel="noopener">Dream of the Red Chamber</a>*, Cao Xueqin
+- *<a href="https://en.wikipedia.org/wiki/Oresteia" target="_blank" rel="noopener">Oresteia</a>*, Aeschylus
+- *<a href="https://en.wikipedia.org/wiki/Antigone_(Anouilh_play)" target="_blank" rel="noopener">Antigone</a>*, Jean Anouilh
 
 #### POETRY
-- *[Prometheus Unbound](https://en.wikipedia.org/wiki/Prometheus_Unbound_(Shelley))*, Percy Bysshe Shelley
-- *[Paradise Lost](https://en.wikipedia.org/wiki/Paradise_Lost)*, John Milton
-- *[Autobiography of Red](https://en.wikipedia.org/wiki/Autobiography_of_Red)*, Anne Carson
-- *[When I Say Love](https://contrarymagazine.com/Contrary/Love.html)*, Meredith Martinez
+- *<a href="https://en.wikipedia.org/wiki/Prometheus_Unbound_(Shelley)" target="_blank" rel="noopener">Prometheus Unbound</a>*, Percy Bysshe Shelley
+- *<a href="https://en.wikipedia.org/wiki/Paradise_Lost" target="_blank" rel="noopener">Paradise Lost</a>*, John Milton
+- *<a href="https://en.wikipedia.org/wiki/Autobiography_of_Red" target="_blank" rel="noopener">Autobiography of Red</a>*, Anne Carson
+- *<a href="https://contrarymagazine.com/Contrary/Love.html" target="_blank" rel="noopener">When I Say Love</a>*, Meredith Martinez
 
 #### FILM
-- *[The Color of Pomegranates (Sayat Nova)](https://en.wikipedia.org/wiki/The_Color_of_Pomegranates)* (1969), dir. Sergei Parajanov
+- *<a href="https://en.wikipedia.org/wiki/The_Color_of_Pomegranates" target="_blank" rel="noopener">The Color of Pomegranates (Sayat Nova)</a>* (1969), dir. Sergei Parajanov
 
 #### ESSAY/SPEECH
-- *[The Artist's Struggle for Integrity](https://voxpopulisphere.com/2016/05/22/james-baldwin/) [(vid.)](https://www.youtube.com/watch?v=dU0g5fAA2QY)*, James Baldwin
+- *<a href="https://voxpopulisphere.com/2016/05/22/james-baldwin/" target="_blank" rel="noopener">The Artist's Struggle for Integrity</a> <a href="https://www.youtube.com/watch?v=dU0g5fAA2QY" target="_blank" rel="noopener">(vid.)</a>*, James Baldwin
 
 #### CHINA
-- *[How China Works: An Introduction to China's State-led Economic Development](https://link.springer.com/book/10.1007/978-981-97-0080-6)*, Xiaohuan Lan
-- *[Party Life: Chinese Governance and the World Beyond Liberalism](https://link.springer.com/book/10.1007/978-981-99-4522-1)*, Eric Li
+- *<a href="https://link.springer.com/book/10.1007/978-981-97-0080-6" target="_blank" rel="noopener">How China Works: An Introduction to China's State-led Economic Development</a>*, Xiaohuan Lan
+- *<a href="https://link.springer.com/book/10.1007/978-981-99-4522-1" target="_blank" rel="noopener">Party Life: Chinese Governance and the World Beyond Liberalism</a>*, Eric Li
 
 #### SOCIOLOGY
-- *[Ruling Oneself Out](https://dukeupress.edu/ruling-oneself-out)*, Ivan Ermakoff
+- *<a href="https://dukeupress.edu/ruling-oneself-out" target="_blank" rel="noopener">Ruling Oneself Out</a>*, Ivan Ermakoff
