@@ -34,6 +34,8 @@
   </url><url>
     <loc>http://localhost:1313/profile/</loc>
   </url><url>
+    <loc>http://localhost:1313/writing/fifteen-fyp/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>

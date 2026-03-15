@@ -1,5 +1,5 @@
 ---
-title: "Limitations of Export Controls, A Thought Exercise"
+title: "Limitations of Export Controls"
 date: 2026-01-11
 weight: 2
 ---
