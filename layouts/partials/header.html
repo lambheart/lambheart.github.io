@@ -1,5 +1,16 @@
 <header class="site-header">
   <div class="header-content">
-    <a href="/" class="site-name">{{ .Site.Title }}</a>
+    <a href="{{ "/" | relLangURL }}" class="site-name">{{ .Site.Title }}</a>
+    <div class="lang-switcher">
+      {{ range .Translations }}
+        <a href="{{ .Permalink }}" class="lang-btn">{{ .Language.LanguageName }}</a>
+      {{ else }}
+        {{ range .Site.Languages }}
+          {{ if ne .Lang $.Site.Language.Lang }}
+            <a href="{{ "/" | relLangURL }}{{ $.RelPermalink | strings.TrimPrefix "/" }}" hreflang="{{ .Lang }}" class="lang-btn">{{ .LanguageName }}</a>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
   </div>
 </header>

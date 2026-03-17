@@ -1,6 +1,16 @@
 baseURL = "https://wanyuli.com/"
 title = "Celeste Li"
-languageCode = "en-us"
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    languageName = "EN"
+    languageCode = "en-us"
+    weight = 1
+  [languages.zh]
+    languageName = "中文"
+    languageCode = "zh-cn"
+    weight = 2
 
 [params]
     author = "Celeste Li"
