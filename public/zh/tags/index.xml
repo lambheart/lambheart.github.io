@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Celeste Li</title>
-    <link>https://wanyuli.com/zh/tags/</link>
+    <link>http://localhost:1313/zh/tags/</link>
     <description>Recent content in Tags on Celeste Li</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <atom:link href="https://wanyuli.com/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

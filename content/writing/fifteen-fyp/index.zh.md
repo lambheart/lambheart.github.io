@@ -12,7 +12,7 @@ weight: 1
 人工智能在该战略文件中具有显著存在，与科技创新、高质量发展和国家安全并列为持续关注焦点。该文件以加速议程为特征，主张推动前沿科技发展与综合战略规划的产业政策，以实现人工智能所带来的生产力革命。
 
 <figure>
-  <img src="graph.png">
+  <img src="/writing/fifteen-fyp/graph.png">
   <figcaption>
     （来源：<a href="https://x.com/berthofmanecon/status/2031593946921791678?s=20" target="_blank" rel="noopener">@berthofmanecon on Twitter/X</a>）
   </figcaption>
