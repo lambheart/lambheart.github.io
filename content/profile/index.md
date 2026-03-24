@@ -10,7 +10,7 @@ Most of my current work is in AI governance, political sociology, and internatio
 
 I'm building a dashboard and accompanying analysis that tracks public statements by Chinese actors on AI risk. Separately, I'm working on extending a game-theoretic model of AI deterrence into a multi-period framework.
 
-I'm broadly interested in decision-making under uncertainty, comparative-historical sociology, and mechanisms of alignment around transformative risks.
+I'm broadly interested in decision-making under uncertainty, comparative-historical sociology, and mechanisms of alignment around critical junctures.
 
 **COURSEWORK**
 - Sociology of Developing Societies/Third World
