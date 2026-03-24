@@ -4,11 +4,13 @@
 Celeste Li  
 *celeste_li@icloud.com*
 
-Celeste Li is an undergraduate at the University of Wisconsin-Madison studying sociology, computer science, and art history. She is involved in AI policy research and organizing, and currently serves as Policy Lead for the Wisconsin AI Safety Initiative.
+Hello. I'm an undergraduate at the University of Wisconsin-Madison studying Sociology, Computer Science, and Art History, and I serve as Policy Lead for the Wisconsin AI Safety Initiative.
 
-Her research focuses on how political elites use uncertainty as a governing resource in the development of national AI strategies. She is particularly interested in how uncertainty is mobilized to justify rapid resource allocation, securitization, and institutional coordination, and how these dynamics differ between the United States and China. Through analysis of public-facing elite discourse, she examines how narratives of risk, competition, and inevitability structure international diplomacy and sustain political legitimacy.
+Most of my current work is in AI governance, political sociology, and international relations. My senior thesis, advised by Ivan Ermakoff, uses frame analysis to examine how US political elites treat uncertainty in narratives of existential risk and competitive urgency to legitimate resource allocation and securitization in national AI strategies.
 
-Her broader interests include decision-making under uncertainty, elite politics, interactional and comparative-historical sociology, political economy, and the governance of emerging technologies. She is interested in pursuing policy analysis and research at the intersection of AI governance, international relations, and sociological theory.
+I'm building a dashboard and accompanying analysis that tracks public statements by Chinese actors on AI risk. Separately, I'm working on extending a game-theoretic model of AI deterrence into a multi-period framework.
+
+I'm broadly interested in decision-making under uncertainty, comparative-historical sociology, and mechanisms of alignment around transformative risks.
 
 **COURSEWORK**
 - Sociology of Developing Societies/Third World
