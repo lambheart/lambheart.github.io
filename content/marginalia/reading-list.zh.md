@@ -32,7 +32,7 @@ date: 2026-03-11
 - *<a href="https://voxpopulisphere.com/2016/05/22/james-baldwin/" target="_blank" rel="noopener">The Artist's Struggle for Integrity</a> <a href="https://www.youtube.com/watch?v=dU0g5fAA2QY" target="_blank" rel="noopener">（视频）</a>*，詹姆斯·鲍德温
 
 #### 中国研究
-- *<a href="https://link.springer.com/book/10.1007/978-981-97-0080-6" target="_blank" rel="noopener">中国是怎么运转的：中国国家主导经济发展导论</a>*，兰小欢
+- *<a href="https://link.springer.com/book/10.1007/978-981-97-0080-6" target="_blank" rel="noopener">置身事内：中国政府与经济发展</a>*，兰小欢
 - *<a href="https://link.springer.com/book/10.1007/978-981-99-4522-1" target="_blank" rel="noopener">Party Life: Chinese Governance and the World Beyond Liberalism</a>*，李世默
 
 #### 社会学
