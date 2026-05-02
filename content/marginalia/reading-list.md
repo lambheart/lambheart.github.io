@@ -1,8 +1,8 @@
 ---
 title: "Reading List"
-date: 2026-03-11
+date: 2026-05-01
 ---
-*Last updated 2026 March 11*
+*Last updated 2026 May 1*
 
 This is an actively maintained library of reading materials that I personally recommend to my friends and peers, either because they were profound and transformative, or good introductory texts to an array of subject matters. Sometimes, I list only a writer name.
 
@@ -34,6 +34,7 @@ Each listing redirects to a Wikipedia page for the book, or the most all-encompa
 #### CHINA
 - *<a href="https://link.springer.com/book/10.1007/978-981-97-0080-6" target="_blank" rel="noopener">How China Works: An Introduction to China's State-led Economic Development</a>*, Xiaohuan Lan
 - *<a href="https://link.springer.com/book/10.1007/978-981-99-4522-1" target="_blank" rel="noopener">Party Life: Chinese Governance and the World Beyond Liberalism</a>*, Eric Li
+- *<a href="https://www.cambridge.org/core/books/logic-of-governance-in-china/686D0572F271CBEB67193ED33BF5DFAB" target="_blank" rel="noopener">The Logic of Governance in China: An Organizational Approach</a>*, Xueguang Zhou
 
 #### SOCIOLOGY
 - *<a href="https://dukeupress.edu/ruling-oneself-out" target="_blank" rel="noopener">Ruling Oneself Out</a>*, Ivan Ermakoff

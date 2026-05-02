@@ -1,8 +1,8 @@
 ---
 title: "阅读书目"
-date: 2026-03-11
+date: 2026-05-01
 ---
-*最后更新：2026年3月11日*
+*最后更新：2026年5月1日*
 
 这是一份持续更新的阅读书目，收录了我个人向朋友和同辈推荐的作品——或因其深刻而改变了我，或因其是某一领域的入门佳作。有时，我仅列出作者姓名。
 
@@ -34,6 +34,7 @@ date: 2026-03-11
 #### 中国研究
 - *<a href="https://link.springer.com/book/10.1007/978-981-97-0080-6" target="_blank" rel="noopener">置身事内：中国政府与经济发展</a>*，兰小欢
 - *<a href="https://link.springer.com/book/10.1007/978-981-99-4522-1" target="_blank" rel="noopener">Party Life: Chinese Governance and the World Beyond Liberalism</a>*，李世默
+- *<a href="https://www.cambridge.org/core/books/logic-of-governance-in-china/686D0572F271CBEB67193ED33BF5DFAB" target="_blank" rel="noopener">The Logic of Governance in China: An Organizational Approach</a>*，周雪光
 
 #### 社会学
 - *<a href="https://dukeupress.edu/ruling-oneself-out" target="_blank" rel="noopener">Ruling Oneself Out</a>*，伊万·叶尔马科夫
