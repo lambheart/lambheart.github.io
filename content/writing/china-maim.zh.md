@@ -5,7 +5,7 @@ weight: 1
 ---
 2026 06 30
 
-*这篇文章是一次为时100分钟的思考练习，旨在探讨中国是否可能采取[《超级智能战略》（Superintelligence Strategy）]((https://www.nationalsecurity.ai/))及其[后续文章](https://ai-frontiers.org/articles/ai-deterrence-is-our-best-option)中所详述的MAIM式动态。*
+*这篇文章是一次为时100分钟的思考练习，旨在探讨中国是否可能采取[《超级智能战略》（Superintelligence Strategy）](https://www.nationalsecurity.ai/)及其[后续文章](https://ai-frontiers.org/articles/ai-deterrence-is-our-best-option)中所详述的MAIM式动态。*
 
 #### 摘要
 
