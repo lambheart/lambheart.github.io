@@ -1,5 +1,5 @@
 ---
-title: "AI Management in China's 15th Five-Year Plan"
+title: "Would China engage in a MAIM dynamic?"
 date: 2026-03-15
 weight: 1
 ---
