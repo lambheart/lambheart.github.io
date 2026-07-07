@@ -1,7 +1,7 @@
 ---
 title: "South Korea and the HBM Bottleneck"
 date: 2026-01-01
-weight: 2
+weight: 3
 ---
 2026 01 01
 

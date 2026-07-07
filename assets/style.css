@@ -294,5 +294,46 @@ figcaption {
   }
 }
 
+/* ---------- Footnotes ---------- */
+sup {
+  font-size: 0.65rem;
+  vertical-align: super;
+  line-height: 0;
+}
 
+sup a {
+  text-decoration: none;
+  color: var(--color-text);
+  opacity: 0.6;
+}
+
+sup a:hover {
+  opacity: 1;
+}
+
+.footnotes {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(44, 27, 27, 0.15);
+  font-size: 0.85rem;
+  color: rgba(44, 27, 27, 0.65);
+  line-height: 1.5;
+}
+
+.footnotes ol {
+  padding-left: 1.25rem;
+}
+
+.footnotes li {
+  margin-bottom: 0.5rem;
+}
+
+.footnotes a {
+  color: rgba(44, 27, 27, 0.65);
+  text-decoration: underline;
+}
+
+.footnotes a:hover {
+  opacity: 0.7;
+}
 

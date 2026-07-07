@@ -1,7 +1,7 @@
 ---
 title: "AI Management in China's 15th Five-Year Plan"
 date: 2026-03-15
-weight: 1
+weight: 2
 ---
 2026 03 15
 
