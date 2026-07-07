@@ -314,7 +314,6 @@ sup a:hover {
 .footnotes {
   margin-top: 3rem;
   padding-top: 1rem;
-  border-top: 1px solid rgba(44, 27, 27, 0.15);
   font-size: 0.85rem;
   color: rgba(44, 27, 27, 0.65);
   line-height: 1.5;
