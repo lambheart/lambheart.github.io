@@ -4,13 +4,11 @@
 Celeste Li  
 *celeste_li@icloud.com*
 
-Hello. I'm an undergraduate at the University of Wisconsin-Madison studying Sociology, Computer Science, and Art History, and I serve as Policy Lead for the Wisconsin AI Safety Initiative.
+Hello. I study Sociology and Computer Science at the University of Wisconsin-Madison and I serve as Policy Lead for the Wisconsin AI Safety Initiative.
 
-Most of my current work is in AI governance, political sociology, and international relations. My senior thesis, advised by Ivan Ermakoff, uses frame analysis to examine how US political elites treat uncertainty in narratives of existential risk and competitive urgency to legitimate resource allocation and securitization in national AI strategies.
+Most of my current work is in AI governance, political sociology, and international relations. I'm well-versed in decision theory, game theory, rational-choice theory, and comparative historical methods.
 
-I'm building a dashboard and accompanying analysis that tracks public statements by Chinese actors on AI risk. Separately, I'm working on extending a game-theoretic model of AI deterrence into a multi-period framework.
-
-I'm broadly interested in decision-making under uncertainty, comparative-historical sociology, and mechanisms of alignment around critical junctures.
+I'm building a [dashboard](https://rokansal.github.io/project-synesis/) and accompanying analysis that tracks public statements by Chinese actors on AI risk. I regularly write memos on developments in the Chinese AI landscape.
 
 **COURSEWORK**
 - Sociology of Developing Societies/Third World
@@ -18,7 +16,6 @@ I'm broadly interested in decision-making under uncertainty, comparative-histori
 - Political Sociology
 - Contemporary Sociological Theory
 - Classical Sociological Theory
-- Methods of Sociological Inquiry
 - Probability and Info Theory in Machine Learning
 - Matrix Methods in Machine Learning
 
