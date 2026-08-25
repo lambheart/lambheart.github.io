@@ -6,9 +6,9 @@ Celeste Li
 
 Hello. I study Sociology and Computer Science at the University of Wisconsin-Madison and I serve as Policy Lead for the Wisconsin AI Safety Initiative.
 
-Most of my current work is in AI governance, political sociology, and international relations. I'm well-versed in decision theory, game theory, rational-choice theory, and comparative historical methods.
+Most of my current interest is in US-China strategic thinking and China AI policy. I'm well-versed in decision theory, game theory (Schelling), rational-choice theory, and comparative historical methods.
 
-I'm building a [dashboard](https://rokansal.github.io/project-synesis/) and accompanying analysis that tracks public statements by Chinese actors on AI risk. I regularly write memos on developments in the Chinese AI landscape.
+I designed methodology and context for [dashboard](https://project-synesis.org/) that tracks public statements by non-US jurisdiction on AI risk. I regularly write memos Chinese policy documents or my intuitions on the China AI landscape.
 
 **COURSEWORK**
 - Sociology of Developing Societies/Third World
