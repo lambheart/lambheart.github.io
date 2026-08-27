@@ -4,7 +4,7 @@
 Celeste Li  
 *celeste_li@icloud.com*
 
-Hello. I study Sociology and Computer Science at the University of Wisconsin-Madison and I serve as Policy Lead for the Wisconsin AI Safety Initiative.
+Hello. I'm currently at Constellation. I study Sociology and Computer Science at the University of Wisconsin-Madison and I serve as Policy Lead for the Wisconsin AI Safety Initiative.
 
 Most of my current interest is in US-China strategic thinking and China AI policy. I'm well-versed in decision theory, game theory (Schelling), rational-choice theory, and comparative historical methods.
 

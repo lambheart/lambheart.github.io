@@ -4,7 +4,7 @@
 李琬瑜  
 *celeste_li@icloud.com*
 
-你好。我在威斯康星大学麦迪逊分校学习社会学与计算机科学，现任威斯康星人工智能安全倡议（Wisconsin AI Safety Initiative）政策负责人。
+你好。我目前在Constellation。我在威斯康星大学麦迪逊分校学习社会学与计算机科学，现任威斯康星人工智能安全倡议（Wisconsin AI Safety Initiative）政策负责人。
 
 我目前主要关注美中战略思考与中国人工智能政策。我熟悉决策理论、博弈论（Schelling）、理性选择理论，以及比较历史方法。
 

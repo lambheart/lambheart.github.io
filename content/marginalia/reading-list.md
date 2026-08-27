@@ -38,3 +38,5 @@ Each listing redirects to a Wikipedia page for the book, or the most all-encompa
 
 #### SOCIOLOGY
 - *<a href="https://dukeupress.edu/ruling-oneself-out" target="_blank" rel="noopener">Ruling Oneself Out</a>*, Ivan Ermakoff
+- *<a href="https://www.hup.harvard.edu/books/9780674840317" target="_blank" rel="noopener">The Strategy of Conflict</a>*, Thomas Schelling
+- *<a href="https://yalebooks.yale.edu/book/9780300246742/arms-and-influence/" target="_blank" rel="noopener">Arms and Influence</a>*, Thomas Schelling

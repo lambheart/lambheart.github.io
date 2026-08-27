@@ -38,3 +38,5 @@ date: 2026-05-01
 
 #### 社会学
 - *<a href="https://dukeupress.edu/ruling-oneself-out" target="_blank" rel="noopener">Ruling Oneself Out</a>*，伊万·叶尔马科夫
+- *<a href="https://www.hup.harvard.edu/books/9780674840317" target="_blank" rel="noopener">The Strategy of Conflict</a>*，托马斯·谢林
+- *<a href="https://yalebooks.yale.edu/book/9780300246742/arms-and-influence/" target="_blank" rel="noopener">Arms and Influence</a>*，托马斯·谢林
