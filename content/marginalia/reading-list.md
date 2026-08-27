@@ -1,8 +1,8 @@
 ---
 title: "Reading List"
-date: 2026-05-01
+date: 2026-08-27
 ---
-*Last updated 2026 May 1*
+*Last updated 2026 August 27*
 
 This is an actively maintained library of reading materials that I personally recommend to my friends and peers, either because they were profound and transformative, or good introductory texts to an array of subject matters. Sometimes, I list only a writer name.
 
