@@ -248,6 +248,36 @@ figcaption {
   text-decoration: underline;
 }
 
+/* Tables: kept minimal to match the rest of the page — no vertical rules or
+   boxes, just a header underline, generous cell padding, and top-aligned
+   cells. Wrapped in a horizontal scroll on narrow screens. */
+.single-article table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  margin: 1.5rem 0;
+  display: block;
+  overflow-x: auto;
+}
+
+.single-article th,
+.single-article td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.5rem 0.9rem 0.5rem 0;
+  border-bottom: 1px solid rgba(44, 27, 27, 0.15);
+}
+
+.single-article thead th {
+  font-weight: 700;
+  border-bottom: 1px solid rgba(44, 27, 27, 0.4);
+}
+
+.single-article table a {
+  text-decoration: underline;
+}
+
 @media (max-width: 768px) {
 
     html {
