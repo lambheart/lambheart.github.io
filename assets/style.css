@@ -9,6 +9,12 @@
   --spacing: 4rem;
 }
 
+/* The home page footer also carries the webring bar (44px), so it gets a
+   taller fixed footer; every other page keeps the original height. */
+.home {
+  --footer-height: 136px;
+}
+
 /* ---------- Reset & Base ---------- */
 * {
   box-sizing: border-box;
@@ -129,7 +135,6 @@ figcaption {
   font-style: normal;
 }
 
-.footer-friends,
 .footer-main {
   display: flex;
   align-items: center;
@@ -137,9 +142,16 @@ figcaption {
   width: 100%;
 }
 
-.footer-friends {
-  font-family: "EB Garamond", serif;
-  font-size: .9rem;
+/* waisi.live webring bar. It is a cross-origin iframe, so the site's CSS can't
+   reach inside it; colours and type are passed as query params on the src (see
+   partials/footer.html). Out here we only own the box: no border, and the
+   44px height the widget is designed for. */
+.webring-embed {
+  display: block;
+  width: 100%;
+  height: 44px;
+  border: 0;
+  flex: none;
 }
 
 /* ---------- Container ---------- */
@@ -283,6 +295,16 @@ figcaption {
 
   a {
     line-height: 1.6;
+  }
+
+  /* The webring bar can't wrap (its links are nowrap and it clips overflow),
+     so on narrow phones let it borrow the footer's side padding. Its own inner
+     padding is 0.75rem, so pulling out by that much keeps "← Name" flush with
+     "Email" below it. */
+  .webring-embed {
+    width: calc(100% + 1.5rem);
+    margin-left: -0.75rem;
+    margin-right: -0.75rem;
   }
 
 }

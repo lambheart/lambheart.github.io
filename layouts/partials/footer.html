@@ -1,9 +1,13 @@
 <footer class="site-footer">
   {{ if .IsHome }}
-  <div class="footer-friends">
-    <a href="https://jeremykintana.com/" target="_blank" rel="noopener">← Jeremy</a>
-    <a href="https://www.kaustubhais.com/" target="_blank" rel="noopener">Kaustubh →</a>
-  </div>
+  {{/* waisi.live webring. The ring's health checker fetches this page and looks
+       for the literal string https://waisi.live/embed/celeste, so keep that part
+       of the src intact. The query params only restyle the widget to match the
+       site: https://github.com/jkintana/webring#styling-the-widget */}}
+  <iframe class="webring-embed"
+          src="https://waisi.live/embed/celeste?text_color=%23766B6B&amp;link_color=%234C3D3D&amp;border_color=transparent&amp;font=%22EB%20Garamond%22,%20serif&amp;font_size=15px"
+          title="waisi.live webring"
+          loading="lazy"></iframe>
   {{ end }}
   <div class="footer-main">
     <div class="footer-left">
