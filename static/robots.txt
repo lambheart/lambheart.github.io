@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: /profile/
-Disallow: /writing/
+Allow: /
+
+Sitemap: https://wanyuli.com/sitemap.xml
