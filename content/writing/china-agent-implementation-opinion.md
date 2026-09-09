@@ -5,7 +5,7 @@ weight: 1
 ---
 2026 05 20
 
-*This memo was written for [Project Synesis](project-synesis.org) in collaboration with Yilin Huang. Project Synesis is a multilingual discovery dashboard for primary source foreign AI governance documents.*
+*This memo was written for [Project Synesis](https://project-synesis.org) in collaboration with Yilin Huang. Project Synesis is a multilingual discovery dashboard for primary source foreign AI governance documents.*
 
 #### TLDR
 
