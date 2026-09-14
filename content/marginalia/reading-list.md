@@ -1,14 +1,25 @@
 ---
 title: "Reading List"
-date: 2026-08-27
+date: 2026-09-14
 ---
-*Last updated 2026 August 27*
+*Last updated 2026 September 14*
 
 This is an actively maintained library of reading materials that I personally recommend to my friends and peers, either because they were profound and transformative, or good introductory texts to an array of subject matters. Sometimes, I list only a writer name.
 
 The page serves as a bookmark for my friends in case they ever want to recall a recommendation I've made.
 
 Each listing redirects to a Wikipedia page for the book, or the most all-encompassing resource after that.
+
+#### CHINA
+- *<a href="https://link.springer.com/book/10.1007/978-981-97-0080-6" target="_blank" rel="noopener">How China Works: An Introduction to China's State-led Economic Development</a>*, Xiaohuan Lan
+- *<a href="https://link.springer.com/book/10.1007/978-981-99-4522-1" target="_blank" rel="noopener">Party Life: Chinese Governance and the World Beyond Liberalism</a>*, Eric Li
+- *<a href="https://www.cambridge.org/core/books/logic-of-governance-in-china/686D0572F271CBEB67193ED33BF5DFAB" target="_blank" rel="noopener">The Logic of Governance in China: An Organizational Approach</a>*, Xueguang Zhou
+- *<a href="https://cornellpress.cornell.edu/book/9781501705854/how-china-escaped-the-poverty-trap/#bookTabs=1" target="_blank" rel="noopener">How China Escaped the Poverty Trap</a>*, Yuen Yuen Ang
+
+#### SOCIOLOGY
+- *<a href="https://dukeupress.edu/ruling-oneself-out" target="_blank" rel="noopener">Ruling Oneself Out</a>*, Ivan Ermakoff
+- *<a href="https://www.hup.harvard.edu/books/9780674840317" target="_blank" rel="noopener">The Strategy of Conflict</a>*, Thomas Schelling
+- *<a href="https://yalebooks.yale.edu/book/9780300246742/arms-and-influence/" target="_blank" rel="noopener">Arms and Influence</a>*, Thomas Schelling
 
 #### FICTION
 - *<a href="https://en.wikipedia.org/wiki/Ulysses_(novel)" target="_blank" rel="noopener">Ulysses</a>*, James Joyce
@@ -30,13 +41,3 @@ Each listing redirects to a Wikipedia page for the book, or the most all-encompa
 
 #### ESSAY/SPEECH
 - *<a href="https://voxpopulisphere.com/2016/05/22/james-baldwin/" target="_blank" rel="noopener">The Artist's Struggle for Integrity</a> <a href="https://www.youtube.com/watch?v=dU0g5fAA2QY" target="_blank" rel="noopener">(vid.)</a>*, James Baldwin
-
-#### CHINA
-- *<a href="https://link.springer.com/book/10.1007/978-981-97-0080-6" target="_blank" rel="noopener">How China Works: An Introduction to China's State-led Economic Development</a>*, Xiaohuan Lan
-- *<a href="https://link.springer.com/book/10.1007/978-981-99-4522-1" target="_blank" rel="noopener">Party Life: Chinese Governance and the World Beyond Liberalism</a>*, Eric Li
-- *<a href="https://www.cambridge.org/core/books/logic-of-governance-in-china/686D0572F271CBEB67193ED33BF5DFAB" target="_blank" rel="noopener">The Logic of Governance in China: An Organizational Approach</a>*, Xueguang Zhou
-
-#### SOCIOLOGY
-- *<a href="https://dukeupress.edu/ruling-oneself-out" target="_blank" rel="noopener">Ruling Oneself Out</a>*, Ivan Ermakoff
-- *<a href="https://www.hup.harvard.edu/books/9780674840317" target="_blank" rel="noopener">The Strategy of Conflict</a>*, Thomas Schelling
-- *<a href="https://yalebooks.yale.edu/book/9780300246742/arms-and-influence/" target="_blank" rel="noopener">Arms and Influence</a>*, Thomas Schelling
