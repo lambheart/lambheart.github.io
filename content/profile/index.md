@@ -4,11 +4,17 @@
 Celeste Li  
 *celeste_li@icloud.com*
 
-Hello. I'm currently at Constellation. I study Sociology and Computer Science at the University of Wisconsin-Madison and I serve as Policy Lead for the Wisconsin AI Safety Initiative.
+Hello. I'm interested in US-China strategic thinking and China AI policy. 
 
-Most of my current interest is in US-China strategic thinking and China AI policy. I'm well-versed in decision theory, game theory (Schelling), rational-choice theory, and comparative historical methods.
+I'm currently conducting independent China research on grant from Redwood Research, with writing mentorship from Alexa Pan. I'm also evaluating assumptions about China in different forecasting scenarios, under the mentorship of Naci Cankaya.
 
-I designed methodology and context for [dashboard](https://project-synesis.org/) that tracks public statements by non-US jurisdiction on AI risk. I regularly write memos Chinese policy documents or my intuitions on the China AI landscape.
+I contract with METR and Nightingale Collective.
+
+I studied Sociology and Computer Science at the University of Wisconsin-Madison and served as Policy Lead for the Wisconsin AI Safety Initiative.
+
+I'm well-versed in rational-choice theory, game theory (Schelling), political behavior, regime breakdown, and comparative historical methods.
+
+I designed methodology and context for [Project Synesis](https://project-synesis.org/), which tracks public statements by non-US jurisdiction on AI risk. I regularly [write](https://lambheart.substack.com/) memos Chinese policy documents or my intuitions on the China AI landscape.
 
 **COURSEWORK**
 - Sociology of Developing Societies/Third World

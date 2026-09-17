@@ -4,13 +4,17 @@
 李琬瑜  
 *celeste_li@icloud.com*
 
-你好。我目前在Constellation。我在威斯康星大学麦迪逊分校学习社会学与计算机科学，现任威斯康星人工智能安全倡议（Wisconsin AI Safety Initiative）政策负责人。
+你好。我关注中美两国的战略思维，以及中国的人工智能政策。
 
-我目前主要关注美中战略思考与中国人工智能政策。我熟悉决策理论、博弈论（Schelling）、理性选择理论，以及比较历史方法。
+目前，我在 Redwood Research 的资助下开展独立的中国研究，并接受 Alexa Pan 的写作指导。同时，我也在 Naci Cankaya 的指导下，评估不同预测情景中涉及中国的各项假设。此外，我还承接 METR 和 Nightingale Collective 的委托工作。
 
-我设计了追踪非美国司法管辖区关于人工智能风险公开声明的[仪表盘](https://project-synesis.org/)的方法论与背景。我定期撰写关于中国政策文件或我对中国人工智能形势的想法的备忘录。
+我曾在威斯康星大学麦迪逊分校学习社会学和计算机科学，并担任威斯康星 AI 安全倡议（Wisconsin AI Safety Initiative）的政策负责人。
 
-**课程**
+我熟悉理性选择理论、博弈论（尤其是谢林的思想）、政治行为、政权崩溃与比较历史研究方法。
+
+我为 [Project Synesis](https://project-synesis.org/) 设计了研究方法，并梳理了相关背景。该项目追踪美国以外各国家和地区就 AI 风险发表的公开声明。我也经常[撰写研究短文](https://lambheart.substack.com/)，解读中国政策文件，或记录我对中国 AI 领域的观察与初步判断。
+
+**相关课程**
 - 发展中社会/第三世界社会学
 - 经济制度社会学
 - 政治社会学
