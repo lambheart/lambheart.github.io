@@ -8,7 +8,7 @@ Hello. I'm interested in US-China strategic thinking and China AI policy.
 
 I'm currently conducting independent China research on grant from Redwood Research, with writing mentorship from Alexa Pan. I'm also evaluating assumptions about China in different forecasting scenarios, under the mentorship of Naci Cankaya.
 
-I contract with METR and am a co-founder with Jasmine Li on a translation pipeline for safety organizations.
+I contract with METR and am a co-founder with Jasmine Li on [Babel Translation](https://aistranslate.org) for safety organizations.
 
 I studied Sociology and Computer Science at the University of Wisconsin-Madison and served as Policy Lead for the Wisconsin AI Safety Initiative.
 

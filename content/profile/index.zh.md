@@ -6,7 +6,7 @@
 
 你好。我关注中美两国的战略思维，以及中国的人工智能政策。
 
-目前，我在 Redwood Research 的资助下开展独立的中国研究，并接受 Alexa Pan 的写作指导。同时，我也在 Naci Cankaya 的指导下，评估不同预测情景中涉及中国的各项假设。此外，我还承接 METR 的委托工作，并与 Jasmine Li 共同创立了一个面向安全组织的翻译项目。
+目前，我在 Redwood Research 的资助下开展独立的中国研究，并接受 Alexa Pan 的写作指导。同时，我也在 Naci Cankaya 的指导下，评估不同预测情景中涉及中国的各项假设。此外，我还承接 METR 的委托工作，并与 Jasmine Li 共同创立了面向安全组织的 [Babel Translation](https://aistranslate.org)。
 
 我曾在威斯康星大学麦迪逊分校学习社会学和计算机科学，并担任威斯康星 AI 安全倡议（Wisconsin AI Safety Initiative）的政策负责人。
 
