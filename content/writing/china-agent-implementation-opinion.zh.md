@@ -1,106 +1,106 @@
 ---
-title: "China’s Agent Governance Framework: Implications for AI Safety"
+title: "中国的智能体治理框架：对 AI 安全意味着什么"
 date: 2026-05-20
 weight: 1
 ---
 2026 05 20
 
-*This memo was written for [Project Synesis](https://project-synesis.org) in collaboration with Yilin Huang. Project Synesis is a multilingual discovery dashboard for primary source foreign AI governance documents.*
+*本文与 Yilin Huang 合作，为 [Project Synesis](https://project-synesis.org) 撰写。Project Synesis 是一个多语言检索平台，帮助读者查找各国 AI 治理的一手政策文件。*
 
-#### TLDR
+#### 要点
 
-* The Chinese government’s [*Implementation Opinions on Standardized Application and Innovative Development of Intelligent*](https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm)  is the first major government document specifically regulating agents as distinct from models, ahead of comparable efforts in the US or EU.  
-* Western safety researchers should take note of this document as a signal that China is building agent governance infrastructure now, including safety evaluation systems and sector-specific compliance requirements, and design decisions being made in following months will determine whether these policies have substantive safety content. The window to influence design is open now.  
-* Vocabulary overlap with Western AI safety concepts, but the underlying decision-making authority framework may neglect covert failure modes.  
-* Agents are being embedded into critical infrastructure: electric grids, financial systems, public security, judicial procedures. CAC and sector regulators will determine rules in sensitive domains.  
-* China’s proposed agent identity registration and interconnection protocol, if implemented, would be first-mover infrastructure setting a global precedent.  
-* Overall, the document warrants cautious optimism about continued regulatory development, demonstrating regulatory ambition and outlining a compliance framework, and community members can likely expect Chinese regulation of more AI domains in the near future.   
-* Open questions to be answered as details of regulation are determined in the coming months:  
-  * How Provision 11’s sensitive sector “testing” is specified; concretely, whether this encompasses safety testing.  
-  * Whether Provision 12’s third-party evaluation allows for real technical access.  
-  * What TC260’s binding agent security standards ultimately require.  
-* See [Implications for Action](#implications-for-action) for recommendations on what you might take from this document.   
-* The authors will release a followup in the coming months detailing the specific regulations that result from this document.
+* 中国政府发布的[《智能体规范应用与创新发展实施意见》](https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm)首次在一份重要政府文件中，将智能体（AI agents）与模型区分开来，专门对智能体作出监管安排，先于美国和欧盟的同类举措。
+* 这个信号值得西方 AI 安全研究者关注：中国已经开始搭建智能体治理所需的制度，包括安全评估体系和分行业的合规要求。接下来几个月的具体设计，将决定这些政策能否真正落实 AI 安全目标。现在仍是参与并影响设计的窗口期。
+* 文件中的一些用语与西方 AI 安全研究中的概念相近，但其核心思路是划定决策权限，这可能遗漏隐蔽的失效方式。
+* 智能体正在进入电网、金融系统、公共安全和司法程序等关键领域。这些敏感领域的规则将由国家网信办与行业主管部门共同制定。
+* 中国提出的智能体身份登记和互联协议如果落地，将成为一套先行的基础设施，为全球提供先例。
+* 总体而言，这份文件展现了推进监管的意愿，也勾勒出了合规框架，值得对后续发展持谨慎乐观态度。AI 安全领域的研究者和从业者可以预期，中国近期还会将监管扩展到更多 AI 领域。
+* 随着未来几个月细则逐步明确，有三个问题尤其值得关注：
+  * 第十一条针对敏感领域提出的“测试”，具体测什么？是否包括 AI 安全测试？
+  * 第十二条的第三方评估，能否让评估者获得深入检查系统所需的技术访问权限？
+  * 全国信安标委（TC260）制定的、有约束力的智能体安全标准，最终会提出哪些要求？
+* 关于如何据此采取行动，见[行动建议](#implications-for-action)。
+* 我们将在未来几个月发布后续文章，梳理由这份文件衍生出的具体监管规定。
 
-### Context
+### 背景
 
-This memo, written for readers without a China policy background, examines what China's new agent governance framework reveals about its risk perception and what it implies for researchers, practitioners, and funders working on AI safety. 
+本文面向不熟悉中国政策的读者，试图从这套新的智能体治理框架中理解中国如何看待风险，以及这对 AI 安全领域的研究者、从业者和资助方意味着什么。
 
-On May 8, 2026, three Chinese government agencies jointly released the [*Implementation Opinions on Standardized Application and Innovative Development of Intelligent Agents*](https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm),[^1] a 38-provision policy document guiding the development, deployment, and governance of AI agent systems. Implementation Opinions[^2] are non-binding directives that create regulatory expectations without enforceable legal obligations. A provision appearing in this document signals intent rather than guaranteed implementation; subsequent binding regulations and technical standards will determine what compliance actually requires. 
+2026 年 5 月 8 日，中国三个政府部门联合发布了[《智能体规范应用与创新发展实施意见》](https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm)。[^1] 文件共三十八条，涵盖 AI 智能体系统的开发、部署与治理。“实施意见”[^2]属于指导性文件，传递监管预期，本身并不直接设立可强制执行的法律义务。因此，一项要求被写入文件，说明政府有意推动它，并不保证它一定会落地。企业究竟需要做什么才算合规，取决于后续具有约束力的法规和技术标准。
 
-The document defines agents as "intelligent systems possessing autonomous perception, memory, decision-making, interaction, and execution capabilities".[^3] It is likely that the definition is intentionally broad to tie in with the definition in the TC260[^4] agent safety report, which distinguishes between "soft agents",[^5] such as LLM-based chatbots and coding assistants, and "hard agents",[^6] such as autonomous vehicles and industrial robots.[^7] **By covering both, the CAC document claims a wider regulatory scope than Western agent safety research typically addresses, which focuses primarily on risks from LLM-based agents.**
+文件将智能体定义为“具备自主感知、记忆、决策、交互与执行能力的智能系统”。[^3] 这个定义很可能有意保留了较宽的范围，以衔接全国信安标委（TC260）[^4]智能体安全报告中的分类：报告区分了“软智能体”[^5]与“硬智能体”[^6]，前者包括基于大语言模型的聊天机器人和编程助手，后者包括自动驾驶汽车和工业机器人。[^7] **两类系统都被纳入，意味着网信办这份文件所覆盖的监管范围，比西方智能体安全研究通常关注的范围更广；后者主要研究基于大语言模型的智能体风险。**
 
-The document positions agents as economic infrastructure, envisioning a future where agents will "profoundly transform human modes of production, daily life, and social governance",[^8] and where safety regulations are framed as a *precondition* for large-scale deployment. Half of the provisions of the document is spent calling for exploration and research of 19 agent application scenarios.[^9] Beyond typical mentions of healthcare, education and finance, there are interesting inclusions such as:
+文件将智能体视为经济运行的基础设施，认为它将“深刻改变人类生产生活方式和社会治理模式”，[^8]并将安全监管定位为规模化应用的*前提条件*。文件约一半的条款用于推动十九类应用场景的探索和研究。[^9] 除了医疗、教育、金融等常见领域，还有几项值得注意：
 
-* Electric power dispatch and grid maintenance (Provision 18\)  
-* Public safety monitoring, early-warning systems, and embodied agents for disaster relief and hazardous material disposal (Provision 31\)  
-* Information services including public opinion guidance[^10] and emotion regulation (Provision 28\)
+* 电力调度与电网运维（第十八条）
+* 公共安全监测、预警，以及用于抢险救灾和危险品处置的具身智能体（第三十一条）
+* 包括舆论引导[^10]和情绪调节在内的信息服务（第二十八条）
 
-Together, these point toward embedding agents across the critical functions of the Chinese state and economy, under the direction of the State Council’s “AI+” action plan.
+这些安排共同指向一个方向：在国务院“人工智能+”行动的引导下，将智能体嵌入中国国家治理和经济运行的各项关键职能。
 
-### Principal-agent framing difference
+### 对委托—代理关系的不同理解
 
-The document’s safety framework is consequential both for its underlying assumptions and downstream implications. The document's main safety enforcement mechanism stipulates that users retain the right to know and final authority over the scope of actions taken by the agent, framing safety risk as agents acting outside scope boundaries rather than agents developing goals users didn't intend.[^11] This framework works for systems without high scheming capabilities but becomes increasingly insufficient as capability increases—where covert pursuit of misaligned goals becomes salient—as in Western control conceptions. 
+这套安全框架的出发点，会直接影响它能防范什么风险。文件主要依靠权限划分来保障安全：用户应保有知情权，并对智能体可以采取哪些行动拥有最终决定权。[^11] 在这一思路下，安全风险主要是智能体越权行事，而不是它形成了用户并不希望它追求的目标。对于尚不具备较强暗中谋划能力（scheming）的系统，这套框架可以发挥作用。但随着系统能力增强，暗中追求偏离人类意图的目标会成为更突出的问题，单靠权限划分也就越来越不够。这正是西方 AI 控制研究（AI control）所关注的一类风险。
 
-In accordance with the decision authority focus, the document prioritizes verifiability and traceability mechanisms that can trace breaches of authority.[^12] What verifiable and traceable mean in practice is not detailed. In Western safety discourse, verifiable systems often implies interpretability tools that expose model internals; here it likely refers to logging and audit trails of observable outputs. Whether the document intends the stronger sense will be revealed as TC260's technical standards are developed.
+与强调决策权限的思路一致，文件优先提出可验证、可追溯的机制，以便追查越权行为。[^12] 但“可验证”和“可追溯”具体指什么，尚未展开。在西方 AI 安全讨论中，“可验证”往往意味着借助可解释性工具检查模型的内部机制；这里则更可能指对可观察到的输出保留日志和审计记录。文件是否也意在要求前一种更深入的验证，要看 TC260 后续制定的技术标准。
 
-For comparison, the EU AI Code of Practice defines loss of control risk as "the human inability to modify or shut down models due to misalignment, autonomy, or resistance," specifically accounting for the scenario where capable systems appear compliant while misaligned. As opposed to framing AI agents as tools, the Western community assesses control risk across capability and propensity dimensions, wherein covert compliance and deceptive alignment are failure modes that may bypass the authorization scope mechanism. For failure modes such as weight exfiltration, sabotage, sandbagging, and resource acquisition, traceability may fail to address violations.
+作为对照，欧盟《AI 实践准则》将失控风险界定为：由于模型与人类目标不一致、具有自主性或主动抵抗，人类无法修改或关闭模型。这个定义明确考虑了一种情形：能力较强的系统表面服从，实际目标却与人类不一致。西方 AI 安全研究通常不只把智能体当作工具，而是同时考察它*有能力做什么*，以及它*是否倾向于这样做*。表面服从、欺骗性对齐（deceptive alignment）等失效方式，可能绕过基于授权范围的管控。面对窃取并外传模型权重、蓄意破坏、故意表现得能力不足（sandbagging），以及自行获取资源等行为，仅有可追溯性未必足以应对。
 
-### The three risk categories (Provisions 8-10)
+### 三类风险（第八至第十条）
 
-The document demonstrates meaningful awareness of loss-of-control, misuse risk, and endogenous safety. These concepts overlap with the vocabulary of the Western AI safety community, though this overlap should not be misconstrued for shared conceptual frameworks, as the policy mechanisms differ in noteworthy ways.
+文件对失控、滥用和内生安全风险有实质性的认识。这些概念与西方 AI 安全领域的用语有所重合，但不能由此认为双方采用了相同的概念框架：具体政策机制之间仍有值得注意的差别。
 
-* Provision 8 (提升内生安全能力) names loss of operational control, data poisoning, algorithm tampering, and system vulnerabilities.  
-* Provision 9 (加强供应链安全) calls for strengthened security management of model access, API calls, and extended tool use.  
-* Provision 10 (化解应用衍生风险) lists automated attacks, privacy invasion, generation and spread of disinformation, and internet fraud as unlawful use cases to prevent.
+* 第八条“提升内生安全能力”提到运行失控、数据投毒、算法篡改和系统漏洞。
+* 第九条“加强供应链安全”要求加强模型接入、API 调用和工具扩展等环节的安全管理。
+* 第十条“化解应用衍生风险”列出了需要防范的违法用途，包括自动化攻击、侵犯隐私、虚假信息生成与传播，以及网络诈骗。
 
-Overall, the document frames loss of control as an external security threat rather than emergent misalignment. As a result, the framework is better equipped to address adversarial interference than goal divergence that Western safety research considers most concerning as systems become more capable. Notably, CBRN, otherwise named in the TC260 Framework 2.0,[^13] and internal deployment is omitted from the misuse risks listed.
+总体上，文件更多地把失控视为外部安全威胁，而非系统自身产生了偏离人类意图的目标。因此，这套框架更擅长应对外部恶意干扰；对于西方安全研究认为会随系统能力提升而日益突出的目标偏离问题，它的应对能力较弱。另一个值得注意的缺口是：TC260《人工智能安全治理框架》2.0 版[^13]中已有的化学、生物、放射性与核风险（CBRN），并未出现在这里列举的滥用风险中；开发机构内部部署系统所带来的风险也没有被提及。
 
-**More importantly, the currently unspecified agent safety evaluation system in Provision 8 is where Western capability evaluation methodology will be impactful.** The document calls for safety evaluation in two places: Provision 8's agent safety evaluation system and Provision 12's third-party evaluation service for independent testing of agent function, performance, quality, and compliance. Provision 8's safety evaluation system is currently unspecified in its content, methodology, and responsible institutions. Thus, it is a direct opening for Western capability evaluation methodology to shape Chinese practice: specifically, whether the eventual system requires capability and propensity assessment or only behavioral compliance testing will determine whether it can address covert failure modes. 
+**更关键的是，第八条提出的智能体安全评估体系尚未明确具体设计，西方的能力评估方法有机会在这里发挥作用。** 文件有两处涉及评估：第八条的智能体安全评估体系，以及第十二条提出的第三方评估服务，后者要对智能体的功能、性能、质量和合规性开展独立测试。第八条尚未规定评估内容、方法或责任机构，因此为西方能力评估方法影响中国实践留下了直接的空间。最终体系究竟会同时评估能力与行为倾向，还是只测试可观察行为是否合规，将决定它能否发现隐蔽的失效方式。
 
-Both face structural obstacles from precedent and architecture. Currently, Chinese third-party evaluation of generative AI models primarily assesses whether models produce prohibited content—agent evaluation would require substantially deeper technical access. Additionally, the actors being assessed possess more knowledge of their own systems than any external evaluator can independently verify, creating incentives to optimize for what is measurable rather than the underlying safety objective. 
+两套机制都面临既有实践和制度结构带来的障碍。目前，中国对生成式 AI 模型的第三方评估，主要检查模型是否会输出违规内容；评估智能体则需要更深入地接触系统的技术细节。此外，被评估方对自身系统的了解，总会超过外部评估者能够独立核实的范围。这种信息差容易促使企业围绕可测量的指标做优化，而不是实现这些指标背后的安全目标。
 
-Whether these mechanisms produce substantive outcomes hinges on whether evaluators gain genuine system access and whether evaluation encompasses capability and propensity assessment rather than behavioral output testing alone. Provision 8's safety evaluation system, currently unspecified, is the most direct opening for Western capability evaluation methodology to shape Chinese practice.
+因此，这些机制能否产生实效，取决于评估者是否真正获得了检查系统的权限，以及评估是否覆盖能力和行为倾向，而不只是检查行为输出。第八条尚待设计的安全评估体系，仍是西方能力评估方法影响中国实践最直接的切入点。
 
-### Enforcement dependent on high- or low-stakes deployment context (Provision 11)
+### 监管力度取决于部署场景的风险高低（第十一条）
 
-Provision 11 calls for a tiered governance framework that regulates agents based on deployment context rather than model capability thresholds (e.g. compute, general capability, systematic risk designation). For sensitive domains, the CAC and sector regulators jointly designate permissible use cases and implement measures such as filing requirements, safety testing, and defective product recall mechanisms. For low-risk domains, the framework relies on industry self-regulation.
+第十一条提出分级治理：划分依据是智能体被部署在什么场景，而不是模型是否达到某个能力门槛，例如训练算力、通用能力水平，或是否被认定具有系统性风险。在敏感领域，国家网信办与行业主管部门将共同确定允许使用智能体的场景，并采取备案、安全测试和缺陷产品召回等措施。低风险领域则主要依靠行业自律。
 
-This means compliance standards will likely fragment by sector and involve far more actors than just frontier developers. Energy regulators, financial regulators, and public safety authorities each co-determine the rules for agent deployment in their domain, and each operates with different risk tolerances, existing stakeholders, and political dynamics. Leading firms that participate in sector-specific standard-setting both influence what compliance means and gain an early advantage in demonstrating it.
+这意味着合规标准很可能因行业而异，参与规则制定的主体也远不止前沿模型开发者。能源、金融和公共安全等领域的主管部门，都将参与制定本领域的智能体部署规则；各部门的风险容忍度、既有利益相关方和政治运作方式并不相同。参与行业标准制定的头部企业，既能影响合规要求的内容，也更容易提前准备，在证明自身合规时取得优势。
 
-Two open questions will determine how consequential this framework becomes. First, who designates sensitive domains and what "testing" concretely entails. Specification will likely be accelerated by firms seeking deployment approval, since labs need regulatory clarity before they can ship. Second, once sector-specific standards are set and agents are operating under them (especially in critical infrastructure with high uptime requirements), revisions may become costly. Future standards must accommodate existing deployments, narrowing the window for new safety requirements that could reshape practice.
+这套框架究竟能发挥多大作用，还有两个关键问题。第一，谁来划定敏感领域，“测试”又具体包含什么？希望尽快获得部署许可的企业，很可能会推动细则加速出台，因为实验室需要先明确监管要求，才能推出产品。第二，一旦行业标准落地、智能体开始按这些标准运行，修改标准的成本就可能很高，尤其是在要求持续稳定运行的关键基础设施中。后续标准不得不兼顾已经部署的系统，因此，能够实质性改变实践的新增安全要求，其引入窗口会逐渐收窄。
 
-### Implications for Action{#implications-for-action}
+### 行动建议 {#implications-for-action}
 
-* AI governance researchers should track how this directive is operationalized through TC260’s standards pipeline, where agent security standards currently in development will determine the compliance surface.   
-* Monitor Provision 11’s sensitive domain testing specification, likely concretized within months. The central question is whether it encompasses safety testing. [Kyle Chan](https://x.com/kyleichan), [Paul Triolo](https://x.com/pstAsiatech), [Zilan Qian](https://x.com/ZilanQian), and [Poe Zhao](https://x.com/poezhao0605) are worth following for timely coverage of new developments here, though viewpoints vary. Cross-referencing between them is advisable. IAPS’s China work is a more analytically consistent resource for deeper context.  
-* AI control researchers should watch for agent integration in critical domains—listed in Provisions 18 and 29-31. Early warning signals in these sectors will help evaluate the effectiveness of governance mechanisms in practice.  
-* Provision 12’s third-party evaluation and Provision 8’s safety evaluation system are both still being designed. Researchers and practitioners with capability evaluation expertise should confirm directly with Concordia and Safe AI Forum whether either organization is currently working on Chinese evaluation methodology; if so, these are the appropriate institutions to engage.  
-* China’s Agent Interconnection Protocol is first-mover infrastructure for global agent identity standards; NIST only launched its equivalent initiative in February 2026, so the window is currently open.  
-* Grantmakers and field builders should slightly update priors on China’s regulatory ambition. This document suggests ongoing investment in China-focused AI safety governance work is warranted.
+* AI 治理研究者应跟进 TC260 的标准制定过程，观察这份意见如何转化为具体要求。目前正在制定的智能体安全标准，将决定企业实际需要满足哪些合规条件。
+* 关注第十一条中敏感领域测试要求的细化，这可能在几个月内完成。核心问题是：这些测试是否涵盖 AI 安全？[Kyle Chan](https://x.com/kyleichan)、[Paul Triolo](https://x.com/pstAsiatech)、[Zilan Qian](https://x.com/ZilanQian) 和 [Poe Zhao](https://x.com/poezhao0605) 都值得关注，他们对相关进展的报道较为及时，但观点各有不同，宜相互参照。若想获得更深入、分析脉络也更连贯的背景材料，可以参考 IAPS 的中国研究。
+* AI 控制研究者应关注智能体进入关键领域的情况，具体可见第十八条和第二十九至第三十一条。这些领域中出现的早期风险信号，有助于判断治理机制在实践中是否有效。
+* 第十二条的第三方评估机制和第八条的安全评估体系都还在设计中。具备能力评估经验的研究者和从业者，可以直接向 Concordia 和 Safe AI Forum 确认，它们目前是否在参与中国的评估方法研究；如果是，这两家机构就是合适的合作切入点。
+* 中国提出的智能体互联协议，是全球智能体身份标准领域的先行基础设施。美国国家标准与技术研究院（NIST）直到 2026 年 2 月才启动同类项目，因此目前仍有参与和影响标准的空间。
+* 资助方和推动 AI 安全领域建设的人，应小幅上调对中国监管意愿的判断。这份文件表明，继续投入面向中国的 AI 安全治理工作是有理由的。
 
-[^1]:  智能体规范应用与创新发展实施意见
+[^1]: 文件名称：《智能体规范应用与创新发展实施意见》。
 
-[^2]:  实施意见
+[^2]: “实施意见”对应英文 implementation opinions。
 
-[^3]:  “具备自主感知、记忆、决策、交互与执行能力的智能系统”
+[^3]: 此处为文件对智能体的原文定义。
 
-[^4]:  TC260 (全国信息安全标准化技术委员会, National Information Security Standardization Technical Committee) is China's primary body for developing cybersecurity and AI security standards. Its technical standards form the binding compliance underpin broader policy directives such as this.
+[^4]: TC260 即全国信息安全标准化技术委员会，是中国制定网络安全和 AI 安全标准的主要机构。其技术标准为这类宏观政策提供具体、有约束力的合规依据。
 
-[^5]:  软智能体
+[^5]: 软智能体（soft agents）。
 
-[^6]:  硬智能体
+[^6]: 硬智能体（hard agents）。
 
-[^7]:  TC260-TR-005-2026, Section 1.2 Table 3 and Appendix C
+[^7]: TC260-TR-005-2026，第 1.2 节表 3 及附录 C。
 
-[^8]:  深刻改变人类生产生活方式和社会治理模式
+[^8]: 此处为文件原文表述。
 
-[^9]:  Research, industrial production, energy, transport, agriculture, finance, consumer, education, healthcare, public administration, judicial, public safety, urban governance, procurement.
+[^9]: 涵盖科研、工业生产、能源、交通、农业、金融、消费、教育、医疗、公共管理、司法、公共安全、城市治理和采购等领域。
 
-[^10]:  舆论引导
+[^10]: “舆论引导”为文件原文用语。
 
-[^11]:  Provision 6 (明确决策权限, "Clarify Decision-making Authority").
+[^11]: 第六条“明确决策权限”。
 
-[^12]:  Provision 7 (加强行为管控, "Strengthen Behavioral Control") specifically mandates the establishment of rule-embedding and behavioral fence (规则内嵌、行为围栏) technologies, as well as verifiable and traceable mechanisms (可验证、可追溯机制).
+[^12]: 第七条“加强行为管控”明确要求建立“规则内嵌、行为围栏”等技术，以及“可验证、可追溯机制”。
 
-[^13]:  TC260's AI Safety Governance Framework 2.0 (人工智能安全治理框架, September 2025\) is TC260’s broader risk taxonomy document. It includes catastrophic and CBRN risks absent from this document.
+[^13]: TC260 于 2025 年 9 月发布的《人工智能安全治理框架》2.0 版是一份范围更广的风险分类文件，其中包含本文所讨论的《实施意见》未提及的灾难性风险和 CBRN 风险。

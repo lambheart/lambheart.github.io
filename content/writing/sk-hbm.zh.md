@@ -5,74 +5,74 @@ weight: 3
 ---
 2026 01 01
 
-*本文转载自[Substack](https://lambheart.substack.com/p/south-korea-and-the-hbm-bottleneck)。文章产生于我作为2025年秋季[WAISI](https://waisi.org/)政策学者项目（Policy Scholars program）政策负责人所设计的首期项目，由我主导分析，并与团队合作完成。*
+*本文转载自[Substack](https://lambheart.substack.com/p/south-korea-and-the-hbm-bottleneck)，是[WAISI](https://waisi.org/)首期政策研究项目（Policy Scholars）的成果。2025年秋季，我担任WAISI政策负责人，设计了这个项目。这篇分析由我主笔，与小组成员共同完成。*
 
-*贡献者：Celeste Li、Jeremy Kintana、Kaden Johnson、Kaustubh Kislay、Learoy Daryl Joseph、Maria de Martino、Shawn Im、Will Anderson*
+*参与者：Celeste Li、Jeremy Kintana、Kaden Johnson、Kaustubh Kislay、Learoy Daryl Joseph、Maria de Martino、Shawn Im、Will Anderson*
 
-#### 执行摘要
-前沿AI发展已成为中美战略竞争的核心轴线。美国寻求通过限制中国获取先进算力来维持技术主导地位，其中高带宽内存（HBM）是关键瓶颈。由于韩国半导体企业主导着HBM全球供应，它们是至关重要的中间方，却易受动荡监管环境的冲击。不一致或协调不足的出口管制有损盟友合作——对于奉行对冲战略的韩国尤为如此。持久协调需要可预测、敏感于结构性约束的政策，而非单纯依赖压制。为此，美国应将韩国纳入供应链韧性的共同建构者，并充分利用激励手段，如定向投资与联合基础设施项目。解决盟国企业的结构性压力，与识别技术瓶颈同等重要，以确保协调在长期内得以持续。
+#### 摘要
+前沿AI的发展已成为中美战略竞争的核心领域。美国试图限制中国获取先进算力，以维持技术主导地位；其中，高带宽内存（High Bandwidth Memory，HBM）是一道关键瓶颈。韩国半导体企业主导着全球HBM供应，是这项战略不可或缺的一环，也格外容易受到监管变化的冲击。出口管制若反复无常，或缺乏充分协调，就可能破坏盟友合作；对采取对冲战略（hedging）的韩国而言，问题尤其突出。要让协调持久，不能只靠施压，还需要让政策可预测，并充分考虑这些企业面临的结构性制约。美国应让韩国共同参与供应链韧性的建设与决策，并通过定向投资、联合基础设施项目等激励措施促进合作。要维持长期协调，缓解盟国企业承受的结构性压力，与找准技术瓶颈同样重要。
 
-### 美国前沿AI战略
-美国追求前沿AI主导地位，以维持全球技术领导力并限制中国获取关键AI能力。这一领导力诉求在[《美国人工智能行动计划》](https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf)（2025年7月23日发布）中有充分阐述，该计划延续了2025年1月23日颁布的行政令[《消除美国人工智能领导力的障碍》](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/)。
+### 美国的前沿AI战略
+美国追求前沿AI的主导地位，既是为了保持全球技术领先，也是为了限制中国获得关键AI能力。2025年7月23日发布的[*《美国AI行动计划》*](https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf)详细阐述了这一目标。该计划承接了同年1月23日的行政令[*《消除美国在人工智能领域保持领导地位的障碍》*](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/)。
 
-特朗普总统在行政令序言中明确阐述了美国政府的优先目标：
+特朗普总统在行政令的序言中明确表达了美国政府的优先目标：
 
-"当我们的全球竞争者竞相利用这些技术时，美国实现并维持无可置疑、无可挑战的全球技术主导地位，是一项国家安全命令。"
+“全球竞争对手正在竞相利用这些技术。对美国而言，取得并维持无可置疑、无人能够挑战的全球技术主导地位，是国家安全的必然要求。”
 
-同样，白宫科技政策办公室主任迈克尔·克拉齐奥斯将该计划的目标描述为"巩固美国在人工智能领域的主导地位"。
+白宫科技政策办公室主任Michael Kratsios也将行动计划的目标概括为“巩固美国在人工智能领域的主导地位”。
 
-为此，美国科技与国家安全界的核心关切之一，是限制中华人民共和国从事同等水平的前沿AI研究与开发能力。
+围绕这一目标，美国科技界与国家安全界始终关注的一个核心问题是：如何限制中国开展同等水平的前沿AI研发。
 
-### 高带宽内存作为瓶颈
-算力已成为前沿AI发展的瓶颈。它对于训练前沿模型并随后大规模部署至关重要。广泛部署可通过向研究议程贡献广度、速度和增强推理能力，加速各学科的科学进步。因此，美国战略日益强调限制中国获取先进计算资源。《美国人工智能行动计划》指出：
+### 高带宽内存为何成为瓶颈
+算力已成为前沿AI发展的瓶颈。无论是训练前沿模型，还是随后进行大规模部署，都离不开算力。广泛部署AI，有望拓宽研究范围、加快研究进度、增强推理能力，从而推动多个学科的科学进步。因此，美国战略越来越重视限制中国获取先进计算资源。*《美国AI行动计划》*写道：
 
-"先进AI算力对AI时代至关重要，既促进经济活力，又赋予新型军事能力。因此，拒绝我们的境外对手获取这一资源，既是地缘战略竞争问题，也是国家安全问题。"
+“先进AI算力是AI时代不可或缺的资源，既能激发经济活力，也能带来新的军事能力。因此，阻止外国对手获得这一资源，既关乎地缘战略竞争，也关乎国家安全。”
 
-这些限制措施给中国AI企业带来了短期摩擦，它们[频繁](https://www.scmp.com/tech/big-tech/article/3310656/chinas-lack-advanced-chips-hinders-broad-adoption-ai-models-tencent-executive)[提及](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)获取先进芯片和内存是其扩大规模的首要制约。在中国尝试扩大AI芯片国内生产之际，高带宽内存（HBM）是一个尤为关键的限制因素。
+这些限制已在短期内给中国AI企业带来阻力。它们[频频提到](https://www.scmp.com/tech/big-tech/article/3310656/chinas-lack-advanced-chips-hinders-broad-adoption-ai-models-tencent-executive)，[获取先进芯片和内存的困难](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)是扩大规模的主要障碍。随着中国试图扩大本土AI芯片生产，高带宽内存尤其成为关键制约。
 
-HBM是支撑前沿AI的主要内存技术，它维持着现代推理模型在训练期间高度依赖推理所需的极端并行计算。通过垂直堆叠内存并将其放置在紧邻算力处，HBM能够实现比传统内存架构高得多的内存带宽——每设备每秒可达数TB，使其独特适用于前沿AI工作负载。
+HBM是支撑前沿AI的主要内存技术。如今的推理模型即使在训练阶段也大量依赖推理计算，需要极高程度的并行计算，而HBM正是支撑这种需求的关键。它将多层内存垂直堆叠，并紧邻计算芯片放置，从而实现远高于传统内存架构的带宽：单个器件每秒可传输数TB的数据。这使它特别适合前沿AI的计算负载。
 
-[SemiAnalysis的报告](https://newsletter.semianalysis.com/p/huawei-ascend-production-ramp)显示，HBM是[华为昇腾910C](https://www.reuters.com/world/china/huawei-readies-new-ai-chip-mass-shipment-china-seeks-nvidia-alternatives-sources-2025-04-21/)（目前中国生产的最先进AI芯片）迄今最主要的制约因素。据SemiAnalysis：
+[SemiAnalysis的报告](https://newsletter.semianalysis.com/p/huawei-ascend-production-ramp)认为，HBM是限制[华为昇腾910C](https://www.reuters.com/world/china/huawei-readies-new-ai-chip-mass-shipment-china-seeks-nvidia-alternatives-sources-2025-04-21/)产量的首要因素，其影响远大于其他瓶颈。昇腾910C是目前中国生产的最先进AI芯片。报告写道：
 
-"总体而言，中国已采购1300万块HBM堆栈，足以配套160万个昇腾910C封装。尽管如此，我们预计中国将在年底前因外国HBM耗尽而面临HBM瓶颈……中国今年完全可以从台积电和中芯国际的产能生产超过80.5万颗华为昇腾，但他们不会这样做，因为没有足够的HBM……如果所有前沿逻辑裸片产能都能与HBM配套，华为昇腾今年的产量将从80.5万增至117.5万。更重要的是，2026年产量将从30万增至逾500万颗昇腾910C。"
+“总体而言，中国已采购了1300万个HBM堆叠体，足以用于封装160万颗昇腾910C。即便如此，我们仍预计，到年底海外HBM库存耗尽时，中国会遇到HBM瓶颈……仅凭台积电和中芯国际的产能，中国今年就可以轻松生产超过80.5万颗华为昇腾芯片，但实际不会达到这一水平，因为HBM不够……如果所有先进制程逻辑裸片的产能都能配上HBM，华为昇腾2025年的产量就能从80.5万颗增至117.5万颗。更重要的是，[2026年的]昇腾910C产量将从30万颗增至500多万颗。”
 
-综合SemiAnalysis的估算，HBM——而非逻辑制造——是中国AI加速器生产的首要瓶颈。中国已积累了大量外国生产的逻辑裸片库存，中芯国际也在持续扩充制造产能。SemiAnalysis估计，若不限制HBM获取，2026年昇腾910C产量可从约30万台增至逾500万台，显著扩大中国可用算力。
+综合这些估算，中国AI加速器生产的主要瓶颈是HBM，而非逻辑芯片制造。中国已经储备了大量海外生产的逻辑裸片（logic dies），中芯国际也在继续扩充制造产能。据SemiAnalysis估计，如果获取HBM不受限制，2026年昇腾910C的产量可从约30万颗增至500多万颗，大幅增加中国可用的算力。
 
-此外，据报道中国已要求[美国在贸易谈判中放宽HBM相关限制](https://www.reuters.com/world/china/china-wants-us-relax-ai-chip-export-controls-trade-deal-ft-reports-2025-08-10/)，进一步印证了HBM是中国企业面临的重大战略瓶颈这一结论。
+此外，据报道，中国曾在贸易谈判中要求[美国放宽HBM相关限制](https://www.reuters.com/world/china/china-wants-us-relax-ai-chip-export-controls-trade-deal-ft-reports-2025-08-10/)。这也进一步说明，HBM是中国企业面临的一道重大战略瓶颈。
 
-截至2025年12月下旬，全球市场的新动态进一步凸显了这一结构性制约的严峻性。HBM需求持续超过供应，据行业报道，先进HBM产品价格[同比上涨逾50%](https://m.sedaily.com/NewsView/2H1V9N0FYA)，供应商优先签订长期协议，并将受限产能分配给价值最高的客户。随着前沿HBM堆栈生产能力日益锁定于多年合同，这些动态表明，在可预见的未来，HBM稀缺将持续是前沿AI发展的关键结构性特征。
+截至2025年12月下旬，全球市场的变化进一步凸显了这一结构性制约的严重程度。HBM需求持续超过供给。据行业报道，先进HBM产品的价格已[同比上涨超过50%](https://m.sedaily.com/NewsView/2H1V9N0FYA)：供应商优先安排长期合同，把有限的产量分配给价值最高的客户。越来越多的先进HBM堆叠产能被多年期合同锁定。这些迹象表明，在可预见的未来，HBM短缺仍将是前沿AI发展无法回避的结构性问题。
 
-### 韩国企业作为战略中间方
-由于韩国半导体企业在HBM生产领域的主导地位，其在美国限制中国获取前沿AI能力的战略中占据核心地位。这一地位使其既是不可或缺的合作伙伴，也是动荡监管环境中脆弱的中间方。
+### 韩国企业的战略枢纽地位
+韩国半导体企业在HBM生产中占据主导地位，因此，美国要限制中国获得前沿AI能力，就离不开它们。这让韩国企业既成为关键合作伙伴，也成为夹在各方之间、容易受监管变化冲击的一环。
 
-自2019年以来，美国对AI和半导体的出口管制历经初始限制，再到当前特朗普政府下的选择性松动——但核心HBM瓶颈持续限制着中国获取前沿AI算力。早期措施——包括《2019财年国防授权法案》，该法案[禁止](https://internationalbanker.com/technology/have-the-huawei-bans-achieved-the-us-intended-goals/)在美国联邦行政机构使用华为和中兴设备——确立了限制获取敏感技术的初始框架。这些限制于2022年10月大幅扩展，商务部工业和安全局[发布](https://china.usembassy-china.org.cn/commerce-implements-new-export-controls-on-advanced-computing-and-semiconductor-manufacturing-items-to-the-peoples-republic-of-china-prc/)了《对华实施先进计算和半导体制造物项出口管制》。拜登政府随后的调整延续了限制中国获取先进AI资源的框架。
+自2019年以来，美国对AI和半导体的出口管制经历了从最初设限，到本届特朗普政府选择性放宽的变化。但HBM这道核心瓶颈，仍在限制中国获取前沿AI算力。早期措施搭建了限制敏感技术获取的基本框架，例如《2019财年国防授权法案》[禁止](https://internationalbanker.com/technology/have-the-huawei-bans-achieved-the-us-intended-goals/)美国联邦行政机构使用华为和中兴的设备。2022年10月，美国商务部工业与安全局[发布](https://china.usembassy-china.org.cn/commerce-implements-new-export-controls-on-advanced-computing-and-semiconductor-manufacturing-items-to-the-peoples-republic-of-china-prc/)*《商务部对向中华人民共和国出口先进计算和半导体制造相关物项实施新的出口管制》*，大幅扩大了限制范围。此后，拜登政府继续调整细则，沿用了这套限制中国获取先进AI资源的框架。
 
-截至2025年12月，特朗普政府执政的美国行政当局对前沿AI相关贸易限制采取了选择性方针，但HBM瓶颈依然显著。第二届特朗普政府[推迟了部分半导体相关关税](https://china.usembassy-china.org.cn/commerce-implements-new-export-controls-on-advanced-computing-and-semiconductor-manufacturing-items-to-the-peoples-republic-of-china-prc/)至2027年，并[重新授权](https://www.reuters.com/world/china/us-open-up-exports-nvidia-h200-chips-china-semafor-reports-2025-12-08/)向中国客户许可销售英伟达AI加速器，从全面贸易限制转向选择性松动。然而，这些变化并未消除中国获取前沿AI算力的首要结构性制约。许可的加速器销售仍依赖于HBM获取，而HBM供应依然紧张，且集中于盟国生产商手中。因此，即便在选择性监管松动下，盟国企业的决策仍是扩展规模制约的核心。
+到2025年12月，特朗普政府已表明，将对涉及前沿AI的贸易限制作出选择性调整，但HBM瓶颈依然突出。特朗普第二届政府把[部分半导体相关关税推迟至2027年](https://china.usembassy-china.org.cn/commerce-implements-new-export-controls-on-advanced-computing-and-semiconductor-manufacturing-items-to-the-peoples-republic-of-china-prc/)，并[重新允许英伟达在取得许可后向中国客户销售AI加速器](https://www.reuters.com/world/china/us-open-up-exports-nvidia-h200-chips-china-semafor-reports-2025-12-08/)，从全面限制转向选择性放宽。然而，这些变化并未消除中国获取前沿AI算力所面临的主要结构性制约。即使获得销售许可，加速器供应仍离不开HBM，而HBM供应持续紧张，且生产集中在美国盟国的企业手中。因此，即便部分监管有所放松，盟国企业的决策仍在很大程度上决定着算力扩张的空间。
 
-这些政策转变放大了韩国企业的影响力，它们主导供应并充当关键中间方。SK海力士与三星电子合计[占全球DRAM市场约70%、HBM市场近80%](https://www.reuters.com/business/media-telecom/samsung-sk-hynix-supply-memory-chips-openais-stargate-project-2025-10-01/)。SK海力士约77%的收入来自HBM，估计有27%专门来自向英伟达供货。这种集中度赋予韩国企业在塑造先进内存可用性与分配方面的超凡能力。
+这些政策变化进一步放大了韩国企业的影响力。它们主导供应，是连接各方的关键环节。SK海力士与三星电子合计[占全球DRAM市场约70%、HBM市场近80%](https://www.reuters.com/business/media-telecom/samsung-sk-hynix-supply-memory-chips-openais-stargate-project-2025-10-01/#:~:text=Samsung%20and%20SK%20Hynix%20together,of%20the%20HBM%20market)。SK海力士约77%的收入来自HBM，估计有27%的收入与向英伟达供货直接相关。如此高的市场集中度，让韩国企业对先进内存的供应量和分配拥有远超一般供应商的影响力。
 
-与此同时，这些企业深度融入美国AI发展努力。三星和SK海力士已[签署意向书](https://www.wsj.com/tech/memory-chip-makers-are-enjoying-a-boom-to-remember-thanks-to-ai-741b2a45)，加入OpenAI的Stargate基础设施项目，担任先进内存和数据中心合作伙伴。对华盛顿而言，韩国企业既是瓶颈供应商，也是战略合作者。
+与此同时，这些企业也已深度参与美国的AI发展。三星和SK海力士与OpenAI[签署了意向书](https://www.wsj.com/tech/memory-chip-makers-are-enjoying-a-boom-to-remember-thanks-to-ai-741b2a45)，计划成为“星际之门”（Stargate）基础设施项目的先进内存和数据中心合作伙伴。对华盛顿而言，韩国企业既是掌握瓶颈资源的供应商，也是战略合作伙伴。
 
-### 出口管制与政策不可预测性
-出口管制的波动威胁美国供应链与盟友合作，凸显了制定一致、可预测监管框架的必要性。三星和SK海力士在中国的大量商业与制造利益，使其高度暴露于监管变化之中。2025年8月，美国政府[撤销](https://www.congress.gov/crs-product/R48642)了[此前允许](https://www.reuters.com/sustainability/society-equity/us-makes-it-harder-sk-hynix-samsung-make-chips-china-2025-08-30/)三星和SK海力士在中国接收美国半导体制造设备的经核实最终用户授权。此外，商务部已表明无意向企业发放许可，允许其扩展现有中国设施的产能或升级技术。尽管美国有时[减少限制或给予许可豁免](https://www.nbr.org/wp-content/uploads/pdfs/publications/sr107_us-rok_tech_cooperation_mar2024.pdf)，总体出口管制制度仍缺乏可预测性。
+### 出口管制与政策的不确定性
+出口管制反复变动，会损害美国供应链和盟友合作，这也说明监管规则必须保持连贯、可预测。三星和SK海力士在中国拥有大量商业利益与制造业务，因此对监管变化格外敏感。2025年8月，美国政府[撤销了](https://www.congress.gov/crs-product/R48642)两家企业的“经验证最终用户”（Validated End User，VEU）授权。该授权[此前允许它们](https://www.reuters.com/sustainability/society-equity/us-makes-it-harder-sk-hynix-samsung-make-chips-china-2025-08-30/)将美国半导体制造设备运往中国，用于当地工厂。美国商务部还表示，无意批准能让企业在现有中国工厂扩充产能或升级技术的许可证。尽管美国曾在部分时期对三星和SK海力士的中国工厂[放松限制或给予许可豁免](https://www.nbr.org/wp-content/uploads/pdfs/publications/sr107_us-rok_tech_cooperation_mar2024.pdf)，整体出口管制政策仍然难以预测。
 
-在此不确定性下，三星据报道向中国[供应了1140万块](https://newsletter.semianalysis.com/p/huawei-ascend-production-ramp)HBM堆栈，其中约700万块是在美国出口管制宣布与实施之间的一个月窗口期内供应的，这表明企业必须以多快的速度适应不断变化的监管。这种波动直接制约了企业的运营稳定性、盈利能力和长期规划。从战略层面看，它削弱了支撑美国AI发展的全球半导体供应链的可靠性。这一模式凸显：有效的出口管制需要可预测的规则和机制，以维持盟友对战略目标的配合。
+在这种不确定性之下，据报道，三星曾向中国[供应1140万个HBM堆叠体](https://newsletter.semianalysis.com/p/huawei-ascend-production-ramp)，其中约700万个是在美国出口管制宣布到生效之间仅一个月的窗口期内交付的。这说明，企业不得不迅速应对监管变化。政策反复会直接影响企业能否稳定运营、盈利和制定长期计划。从战略层面看，它也削弱了支撑美国AI发展的全球半导体供应链的可靠性。要让出口管制有效，不仅需要可预测的规则，还需要相应机制，让盟友能够持续配合共同的战略目标。
 
-### 美韩协调的战略含义
-波动且单边的美国出口管制有损韩国的经济对冲战略，侵蚀互信，并使未来中美韩在新兴技术上的合作复杂化——韩国企业的对华业务面临日益沉重的压力。对扩展和盈利能力的限制，有损其对美国政策进行长期合作的激励，尤其是在限制措施预先通知有限的情况下不断出台又撤回之时。
+### 对美韩战略协调的影响
+随着韩国企业在华业务承受越来越大的压力，美国单方面、反复变化的出口管制，可能破坏韩国在经济上的对冲安排，消磨信任，也让未来美韩在新兴技术上的合作更加困难。限制业务扩张和盈利，可能降低企业长期配合美国政策的意愿；如果这些限制在推出和撤回前都不给足准备时间，问题就更严重。
 
-在国家层面，韩国（大韩民国）更广泛的地缘政治处境加剧了这一压力。作为与中国深度经济相互依存、与美国安全结盟的中等强国，韩国奉行对冲战略，以保护经济增长、产业竞争力和政治合法性。单边且不可预测的出口管制有损这一平衡，迫使韩国做出可能瓦解其对冲战略的选择，侵蚀互信，并抑制未来中美韩在关键新兴技术上的协调。当三星、SK海力士等企业跨多个司法管辖区运营时，不断变化的监管制度与部分协调的政策增加了合规成本与不确定性。如果韩国企业要继续配合美国出口战略，它们需要的是连贯战略，而非零散政策。
+韩国所处的地缘政治位置，进一步加重了这种压力。作为中等强国，韩国在经济上与中国深度相互依赖，在安全上则与美国结盟。它采取对冲战略，是为了维持经济增长、产业竞争力以及政治合法性。单方面且难以预测的出口管制，可能打破这一平衡，迫使韩国作出让对冲战略无法维持的选择。这会侵蚀信任，也会削弱今后美韩在关键新兴技术领域协调的意愿。三星和SK海力士这样的跨国企业，要同时面对多个司法管辖区；监管不断变化、各方政策又不能完全衔接，都会增加合规成本和不确定性。韩国企业若要持续配合美国的出口战略，需要的是一套连贯的政策，而非临时拼凑的措施。
 
-鉴于这一制度背景，盟友参与中美竞争不能仅靠意识形态承诺维系——这是协调联盟反华论者中某些人的隐含假设。尽管在华盛顿中美竞争常以意识形态框架表述，盟友参与更可靠地由物质激励、可预测性以及与国内政治经济的契合来维系，而非单纯依赖共同意识形态。对于奉行对冲战略的盟国而言，被迫的二元选择会产生怨恨和不稳定，抑制长期合作。在被迫选择的情境下，有效的盟友参与不仅取决于共同的威胁认知，还取决于所提策略被认为是有效、可预测、经济上可承受且与国内优先事项制度上兼容的。这是制度现实，而非规范偏好。即便在高威胁环境下，依赖盟友产业关键节点的强制性战略，若损害参与的经济和政治基础，就会走向衰弱。因此，持久合作需要分担成本、维持参与意愿的治理机制；单纯施压不是可行的长期战略。
+在这样的制度背景下，不能仅凭意识形态上的认同，就指望盟友长期参与中美竞争。而一些主张联合盟友制衡中国的人，恰恰隐含地作了这样的假设。华盛顿往往用意识形态来解释中美竞争，但要维持盟友参与，更可靠的基础是实际利益、政策的可预测性，以及与盟国内部政治经济条件的契合。对于采取对冲战略的盟国，强迫其二选一，可能引发不满和不稳定，损害长期合作。即使必须作出选择，盟友也不会只因为对威胁有共同判断就有效参与；它们还必须认同所提战略确实有效、可预测，经济代价承受得起，在制度上也能与本国优先事项相容。这是制度如何运作的现实，而不是在表达对哪种政策的价值偏好。即便外部威胁很大，借助盟国产业关键瓶颈施压的战略，一旦破坏了盟友参与所依赖的经济与政治基础，也会难以为继。因此，持久合作需要一套能够分担成本、维持参与意愿的协调机制；仅靠施压，无法形成可行的长期战略。
 
-如果韩国企业被要求在没有相应稳定机制的情况下承担不成比例的经济成本，依赖盟友参与的出口管制的韧性可能会随时间推移因政治抵制或渐进式不合规而侵蚀。
+如果韩国企业必须承担不成比例的经济成本，却得不到相应的稳定保障，那么，依赖盟友参与的出口管制就可能逐渐遭遇政治抵制，或在执行中被一点点打折扣，最终越来越难以维持。
 
-以盟友为中心的政策方针
-为在前沿AI领域维系盟友合作，鉴于韩国企业在全球HBM生产中的核心地位，美国政策应强调稳定性、共同所有权和以激励为基础的与韩国企业的协调。与其将韩国视为美国政策的被动配合者，以盟友为中心的战略将承认韩国是供应链韧性的共同建构者，从而增加出口管制被视为内部正当而非外部强加的可能性。
+政策启示：从盟友的处境出发
+韩国企业在全球HBM生产中处于核心位置。要维持前沿AI领域的盟友合作，美国就应注重政策稳定，让双方共同参与决策，并通过激励使企业利益与政策目标一致。韩国不应只是被动配合美国政策的一方，而应参与设计如何让供应链更能承受冲击。这样，出口管制才更有可能被韩国视为符合自身利益的选择，而非外部强加的要求。
 
-近期先例表明，以激励为基础的协调可以奏效。根据《芯片与科学法案》，美国[向三星提供高达64亿美元](https://semiconductor.samsung.com/sas/local-news/samsung-electronics-to-receive-up-to-6-4-billion-in-direct-funding-under-the-chips-and-science-act/)的直接资金，以扩大其在得克萨斯州的制造设施。同样，SK海力士[获得高达4.58亿美元](https://www.nist.gov/chips/sk-hynix-indiana-west-lafayette)，以在印第安纳州西拉法叶建立HBM先进封装和研发设施。这些措施旨在强化美国半导体生态系统，减少对中国业务的依赖。近期英伟达与SK集团就韩国大规模AI基础设施合作的案例表明，以激励为基础的协调可以在不单纯依赖禁止性管制的前提下强化供应链韧性。从根本上讲，将政策定向于激励措施，可通过提供可预测性和共同利益，塑造企业行为，改善国家与企业战略之间的协调。
+近年的一些案例表明，通过激励促进合作是可以奏效的。根据《芯片与科学法案》，美国[向三星提供最高64亿美元的直接资助](https://semiconductor.samsung.com/sas/local-news/samsung-electronics-to-receive-up-to-6-4-billion-in-direct-funding-under-the-chips-and-science-act/)，支持其扩建得克萨斯州的制造设施。SK海力士也[获得最高4.58亿美元资助](https://www.nist.gov/chips/sk-hynix-indiana-west-lafayette)，用于在印第安纳州西拉法叶建设HBM先进封装与研发设施。这些措施旨在加强美国的半导体产业生态，减少对在华及面向中国的业务的依赖。更近一些，英伟达与SK集团合作，在韩国建设大规模AI基础设施，也说明通过激励协调各方利益，可以增强供应链韧性，而不必完全依赖禁止性管制。以激励为重点的政策，能通过更可预测的环境和双方共享的收益，引导企业行为，让国家战略与企业战略更好地衔接。
 
 ### 结论
-在前沿AI领域维系中美韩协调，需要可预测、以激励为基础的政策，并尊重盟国企业的经济与战略约束。韩国是美国和中国在前沿AI发展竞争中都寻求争取的战略盟友。依赖盟国企业的出口管制不可避免地与市场激励、企业治理和国家经济优先事项相交织。
+要维持美韩在前沿AI领域的协调，就需要可预测、以激励为基础的政策，并认真对待盟国企业在经济和战略上受到的制约。韩国是美国的战略盟友，也是在发展前沿AI的过程中，中美双方都希望争取的伙伴。凡是依靠盟国企业实施的出口管制，都必然涉及市场激励、公司治理和各国经济上的优先事项。
 
-强调稳定性、可预测性和供应链韧性共同所有权的战略，比以波动和单边限制为核心的战略更有可能维持长期协调。随着前沿AI竞争持续，管理这些结构性约束与识别技术瓶颈对于实现战略目标同等重要。
+注重稳定、可预测性，并让盟友共同参与供应链韧性建设与决策，比反复变动的单边限制更有可能维持长期协调。随着前沿AI竞争持续，要实现战略目标，处理好这些结构性制约，与找准技术瓶颈同样重要。
