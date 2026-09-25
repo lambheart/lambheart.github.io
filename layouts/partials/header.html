@@ -3,11 +3,11 @@
     <a href="{{ "/" | relLangURL }}" class="site-name">{{ .Site.Title }}</a>
     <div class="lang-switcher">
       {{ range .Translations }}
-        <a href="{{ .Permalink }}" class="lang-btn">{{ .Language.LanguageName }}</a>
+        <a href="{{ .RelPermalink }}" lang="{{ .Language.LanguageCode }}" hreflang="{{ .Language.LanguageCode }}" class="lang-btn">{{ .Language.LanguageName }}</a>
       {{ else }}
-        {{ range .Site.Languages }}
-          {{ if ne .Lang $.Site.Language.Lang }}
-            <a href="{{ "/" | relLangURL }}{{ $.RelPermalink | strings.TrimPrefix "/" }}" hreflang="{{ .Lang }}" class="lang-btn">{{ .LanguageName }}</a>
+        {{ range .Site.Sites }}
+          {{ if ne .Language.Lang $.Language.Lang }}
+            <a href="{{ .Home.RelPermalink }}" lang="{{ .Language.LanguageCode }}" hreflang="{{ .Language.LanguageCode }}" aria-label="{{ if eq .Language.Lang "zh" }}中文首页{{ else }}English home{{ end }}" class="lang-btn">{{ .Language.LanguageName }}</a>
           {{ end }}
         {{ end }}
       {{ end }}

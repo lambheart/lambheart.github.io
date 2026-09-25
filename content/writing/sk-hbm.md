@@ -1,4 +1,5 @@
 ---
+description: "South Korea’s role in the HBM bottleneck, and why effective export controls require predictable policy and durable incentives for allied firms."
 title: "South Korea and the HBM Bottleneck"
 date: 2026-01-01
 weight: 3

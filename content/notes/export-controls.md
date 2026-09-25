@@ -1,4 +1,5 @@
 ---
+description: "Reflections on the long-term limits of export controls, alternative routes to compute, and the costs borne by allied firms."
 title: "Limitations of Export Controls"
 date: 2026-01-11
 weight: 2

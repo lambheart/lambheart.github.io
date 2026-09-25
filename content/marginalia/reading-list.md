@@ -1,4 +1,5 @@
 ---
+description: "Books, poetry, films, and essays I recommend to friends and peers, from China and sociology to literature and art."
 title: "Reading List"
 date: 2026-09-14
 ---

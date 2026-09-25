@@ -1,6 +1,7 @@
 ---
+description: "An exploratory assessment of China’s incentives to sabotage rival AI development, use economic leverage, or occupy the retaliator position."
 title: "Would China engage in a MAIM dynamic?"
-date: 2026-03-15
+date: 2026-06-30
 weight: 1
 ---
 2026 06 30

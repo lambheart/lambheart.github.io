@@ -1,4 +1,5 @@
 ---
+description: "五角大楼与 Anthropic 的冲突如何揭示 AI 实验室安全承诺面临的选择压力，以及私人资本所能提供的有限缓冲。"
 title: "五角大楼与Anthropic的冲突：AI安全面临的选择压力"
 date: 2026-02-27
 weight: 1

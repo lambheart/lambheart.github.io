@@ -1,4 +1,6 @@
 ---
+seo_title: "About"
+description: "Celeste Li researches US–China strategic thinking and China’s AI policy."
 
 ---
 Celeste Li  
@@ -14,7 +16,7 @@ I studied Sociology and Computer Science at the University of Wisconsin-Madison 
 
 I'm well-versed in rational-choice theory, game theory (Schelling), political behavior, regime breakdown, and comparative historical methods.
 
-I designed methodology and context for [Project Synesis](https://project-synesis.org/), which tracks public statements by non-US jurisdiction on AI risk. I regularly [write](https://lambheart.substack.com/) memos Chinese policy documents or my intuitions on the China AI landscape.
+I designed methodology and context for [Project Synesis](https://project-synesis.org/), which tracks public statements by non-US jurisdiction on AI risk. I regularly [write](https://lambheart.substack.com/) memos of Chinese policy documents or my intuitions on the China AI landscape.
 
 **COURSEWORK**
 - Sociology of Developing Societies/Third World

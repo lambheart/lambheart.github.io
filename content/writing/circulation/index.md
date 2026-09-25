@@ -1,4 +1,7 @@
 ---
+aliases:
+  - /writing/circulation-attention-and-the-politics-of-visibility/
+description: "How David Hammons, Aria Dean, and Sayre Gomez intervene in image circulation, visibility, and the automated allocation of attention."
 title: "Circulation and Attention in Contemporary Image Culture"
 date: 2025-12-17
 weight: 2

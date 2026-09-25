@@ -1,4 +1,5 @@
 ---
+description: "Why China can regulate frontier AI without consolidating labs, and what market competition and past enforcement campaigns suggest."
 title: "Beijing Doesn’t Need Fewer AI Labs"
 date: 2026-09-02
 weight: 1

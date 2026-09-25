@@ -1,4 +1,6 @@
 ---
+seo_title: "关于李琬瑜"
+description: "李琬瑜关注中美两国的战略思维，以及中国的 AI 政策。"
 
 ---
 李琬瑜（Celeste Li）\

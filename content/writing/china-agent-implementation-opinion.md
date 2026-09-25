@@ -1,4 +1,5 @@
 ---
+description: "How China’s new framework governs AI agents, where its safety approach falls short, and where researchers can influence implementation."
 title: "China’s Agent Governance Framework: Implications for AI Safety"
 date: 2026-05-20
 weight: 1

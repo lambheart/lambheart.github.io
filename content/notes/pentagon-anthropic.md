@@ -1,4 +1,5 @@
 ---
+description: "How the Pentagon–Anthropic conflict exposes pressures on AI labs’ safety commitments, and the limits of protection from private capital."
 title: "The Pentagon-Anthropic Conflict: Selection Pressures on AI Safety"
 date: 2026-02-27
 weight: 1
